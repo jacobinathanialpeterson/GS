@@ -1,0 +1,1042 @@
+{
+    "0000": {
+        "gameName": "007 - GoldenEye",
+        "gameParts": 1,
+        "gameSystem": "Nintendo 64"
+    },
+    "0001": {
+        "gameName": "007 - The World Is Not Enough",
+        "gameParts": 2,
+        "gameSystem": "Nintendo 64"
+    },
+    "0002": {
+        "gameName": "1v1.lol",
+        "gameParts": 3,
+        "gameSystem": "Unity"
+    },
+    "0003": {
+        "gameName": "2048",
+        "gameParts": 1,
+        "gameSystem": "HTML5"
+    },
+    "0004": {
+        "gameName": "3-D Tetris",
+        "gameParts": 1,
+        "gameSystem": "Virtual Boy"
+    },
+    "0005": {
+        "gameName": "60 Seconds Burger Run",
+        "gameParts": 1,
+        "gameSystem": "Adobe Flash"
+    },
+    "0006": {
+        "gameName": "Among Us",
+        "gameParts": 1,
+        "gameSystem": "Construct"
+    },
+    "0007": {
+        "gameName": "Awesome Planes",
+        "gameParts": 1,
+        "gameSystem": "Adobe Flash"
+    },
+    "0008": {
+        "gameName": "Awesome Tanks",
+        "gameParts": 1,
+        "gameSystem": "Adobe Flash"
+    },
+    "0009": {
+        "gameName": "Awesome Tanks 2",
+        "gameParts": 1,
+        "gameSystem": "Adobe Flash"
+    },
+    "0010": {
+        "gameName": "Basket & Ball",
+        "gameParts": 1,
+        "gameSystem": "HTML5"
+    },
+    "0011": {
+        "gameName": "Basket Random",
+        "gameParts": 1,
+        "gameSystem": "Construct"
+    },
+    "0012": {
+        "gameName": "Basketball Stars",
+        "gameParts": 1,
+        "gameSystem": "PhaserJS"
+    },
+    "0013": {
+        "gameName": "Battlecoast",
+        "gameParts": 1,
+        "gameSystem": "HTML5"
+    },
+    "0014": {
+        "gameName": "Big Flappy Tower Tiny Square",
+        "gameParts": 1,
+        "gameSystem": "Construct"
+    },
+    "0015": {
+        "gameName": "Big Ice Tower Tiny Square",
+        "gameParts": 1,
+        "gameSystem": "Construct"
+    },
+    "0016": {
+        "gameName": "Big Neon Tower Tiny Square",
+        "gameParts": 1,
+        "gameSystem": "Construct"
+    },
+    "0017": {
+        "gameName": "Big Tower Tiny Square",
+        "gameParts": 1,
+        "gameSystem": "Construct"
+    },
+    "0018": {
+        "gameName": "Big Tower Tiny Square 2",
+        "gameParts": 1,
+        "gameSystem": "Construct"
+    },
+    "0019": {
+        "gameName": "BitLife",
+        "gameParts": 2,
+        "gameSystem": "Unity"
+    },
+    "0020": {
+        "gameName": "Bloons Tower Defense 1",
+        "gameParts": 1,
+        "gameSystem": "Adobe Flash"
+    },
+    "0021": {
+        "gameName": "Bloons Tower Defense 2",
+        "gameParts": 1,
+        "gameSystem": "Adobe Flash"
+    },
+    "0022": {
+        "gameName": "Bloons Tower Defense 3",
+        "gameParts": 1,
+        "gameSystem": "Adobe Flash"
+    },
+    "0023": {
+        "gameName": "Bloons Tower Defense 4",
+        "gameParts": 1,
+        "gameSystem": "Adobe Flash"
+    },
+    "0024": {
+        "gameName": "Bloons Tower Defense 4 Expansion",
+        "gameParts": 1,
+        "gameSystem": "Adobe Flash"
+    },
+    "0025": {
+        "gameName": "Bloons Tower Defense 5",
+        "gameParts": 1,
+        "gameSystem": "Adobe Flash"
+    },
+    "0026": {
+        "gameName": "Bob The Robber",
+        "gameParts": 1,
+        "gameSystem": "PhaserJS"
+    },
+    "0027": {
+        "gameName": "Bob The Robber 2",
+        "gameParts": 1,
+        "gameSystem": "PhaserJS"
+    },
+    "0028": {
+        "gameName": "Bob The Robber 3",
+        "gameParts": 1,
+        "gameSystem": "PhaserJS"
+    },
+    "0029": {
+        "gameName": "Bob The Robber 4 France",
+        "gameParts": 2,
+        "gameSystem": "Unity"
+    },
+    "0030": {
+        "gameName": "Bob The Robber 4 Japan",
+        "gameParts": 2,
+        "gameSystem": "Unity"
+    },
+    "0031": {
+        "gameName": "Bob The Robber 4 Russia",
+        "gameParts": 2,
+        "gameSystem": "Unity"
+    },
+    "0032": {
+        "gameName": "Bob The Robber 5 Temple Adventure",
+        "gameParts": 2,
+        "gameSystem": "PhaserJS"
+    },
+    "0033": {
+        "gameName": "Boxing Random",
+        "gameParts": 1,
+        "gameSystem": "Construct"
+    },
+    "0034": {
+        "gameName": "Burrito Bison",
+        "gameParts": 1,
+        "gameSystem": "Adobe Flash"
+    },
+    "0035": {
+        "gameName": "Burrito Bison Revenge",
+        "gameParts": 1,
+        "gameSystem": "Adobe Flash"
+    },
+    "0036": {
+        "gameName": "Cars 1",
+        "gameParts": 1,
+        "gameSystem": "Nintendo DS"
+    },
+    "0037": {
+        "gameName": "Cars 2",
+        "gameParts": 3,
+        "gameSystem": "Nintendo DS"
+    },
+    "0038": {
+        "gameName": "Clicker Heroes",
+        "gameParts": 6,
+        "gameSystem": "Unity"
+    },
+    "0039": {
+        "gameName": "Cookie Clicker",
+        "gameParts": 1,
+        "gameSystem": "HTML5"
+    },
+    "0040": {
+        "gameName": "CoreBall",
+        "gameParts": 1,
+        "gameSystem": "HTML5"
+    },
+    "0041": {
+        "gameName": "Crash Bandicoot",
+        "gameParts": 28,
+        "gameSystem": "PlayStation 1"
+    },
+    "0042": {
+        "gameName": "Crash Bandicoot 2 - Cortex Strikes Back",
+        "gameParts": 7,
+        "gameSystem": "PlayStation 1"
+    },
+    "0043": {
+        "gameName": "Crash Bandicoot 3 - Warped",
+        "gameParts": 7,
+        "gameSystem": "PlayStation 1"
+    },
+    "0044": {
+        "gameName": "CTR - Crash Team Racing",
+        "gameParts": 18,
+        "gameSystem": "PlayStation 1"
+    },
+    "0045": {
+        "gameName": "Diddy Kong Racing",
+        "gameParts": 1,
+        "gameSystem": "Nintendo 64"
+    },
+    "0046": {
+        "gameName": "Dig to China",
+        "gameParts": 1,
+        "gameSystem": "Adobe Flash"
+    },
+    "0047": {
+        "gameName": "Donkey Kong",
+        "gameParts": 1,
+        "gameSystem": "Nintendo Entertainment System"
+    },
+    "0048": {
+        "gameName": "Donkey Kong - Jungle Climber",
+        "gameParts": 2,
+        "gameSystem": "Nintendo DS"
+    },
+    "0049": {
+        "gameName": "Donkey Kong - King of Swing GBA",
+        "gameParts": 1,
+        "gameSystem": "Nintendo Game Boy Advance"
+    },
+    "0050": {
+        "gameName": "Donkey Kong 64",
+        "gameParts": 2,
+        "gameSystem": "Nintendo 64"
+    },
+    "0051": {
+        "gameName": "Donkey Kong Country",
+        "gameParts": 1,
+        "gameSystem": "Super Nintendo Entertainment System"
+    },
+    "0052": {
+        "gameName": "Donkey Kong Country 2 - Diddy\u2019s Kong Quest",
+        "gameParts": 1,
+        "gameSystem": "Super Nintendo Entertainment System"
+    },
+    "0053": {
+        "gameName": "Donkey Kong Country 3 - Dixie Kong\u2019s Double Trouble!",
+        "gameParts": 1,
+        "gameSystem": "Super Nintendo Entertainment System"
+    },
+    "0054": {
+        "gameName": "Donkey Kong Jr",
+        "gameParts": 1,
+        "gameSystem": "Nintendo Entertainment System"
+    },
+    "0055": {
+        "gameName": "Donkey Kong Land",
+        "gameParts": 1,
+        "gameSystem": "Nintendo Game Boy"
+    },
+    "0056": {
+        "gameName": "Donkey Kong Land 2",
+        "gameParts": 1,
+        "gameSystem": "Nintendo Game Boy"
+    },
+    "0057": {
+        "gameName": "Donkey Kong Land 3",
+        "gameParts": 1,
+        "gameSystem": "Nintendo Game Boy"
+    },
+    "0058": {
+        "gameName": "Dr. Mario",
+        "gameParts": 1,
+        "gameSystem": "Nintendo Entertainment System"
+    },
+    "0059": {
+        "gameName": "Dr. Mario 64",
+        "gameParts": 1,
+        "gameSystem": "Nintendo 64"
+    },
+    "0060": {
+        "gameName": "Drift Boss",
+        "gameParts": 1,
+        "gameSystem": "HTML5"
+    },
+    "0061": {
+        "gameName": "Drive Mad",
+        "gameParts": 1,
+        "gameSystem": "Other"
+    },
+    "0062": {
+        "gameName": "Drive Mad S",
+        "gameParts": 1,
+        "gameSystem": "Other"
+    },
+    "0063": {
+        "gameName": "Duck Life 1",
+        "gameParts": 1,
+        "gameSystem": "Unity"
+    },
+    "0064": {
+        "gameName": "Duck Life 2",
+        "gameParts": 1,
+        "gameSystem": "Unity"
+    },
+    "0065": {
+        "gameName": "Duck Life 3",
+        "gameParts": 2,
+        "gameSystem": "Unity"
+    },
+    "0066": {
+        "gameName": "Duck Life 4",
+        "gameParts": 3,
+        "gameSystem": "Unity"
+    },
+    "0067": {
+        "gameName": "Duck Life 5",
+        "gameParts": 1,
+        "gameSystem": "Adobe Flash"
+    },
+    "0068": {
+        "gameName": "Duck Life 6",
+        "gameParts": 4,
+        "gameSystem": "Unity"
+    },
+    "0069": {
+        "gameName": "Duck Life 7 (DEMO)",
+        "gameParts": 4,
+        "gameSystem": "Unity"
+    },
+    "0070": {
+        "gameName": "Duck Life 8 (DEMO)",
+        "gameParts": 7,
+        "gameSystem": "Unity"
+    },
+    "0071": {
+        "gameName": "Dune",
+        "gameParts": 1,
+        "gameSystem": "Unity"
+    },
+    "0072": {
+        "gameName": "Eggy Car",
+        "gameParts": 1,
+        "gameSystem": "Construct"
+    },
+    "0073": {
+        "gameName": "Flappy 2048",
+        "gameParts": 1,
+        "gameSystem": "HTML5"
+    },
+    "0074": {
+        "gameName": "Flappy Bird",
+        "gameParts": 1,
+        "gameSystem": "HTML5"
+    },
+    "0075": {
+        "gameName": "Galaga - Demons of Death",
+        "gameParts": 1,
+        "gameSystem": "Nintendo Entertainment System"
+    },
+    "0076": {
+        "gameName": "Geometry Dash Lite",
+        "gameParts": 14,
+        "gameSystem": "HTML5"
+    },
+    "0077": {
+        "gameName": "Gravix",
+        "gameParts": 1,
+        "gameSystem": "Unity"
+    },
+    "0078": {
+        "gameName": "HexGL",
+        "gameParts": 1,
+        "gameSystem": "HTML5"
+    },
+    "0079": {
+        "gameName": "Hextris",
+        "gameParts": 1,
+        "gameSystem": "HTML5"
+    },
+    "0080": {
+        "gameName": "Idle Breakout",
+        "gameParts": 1,
+        "gameSystem": "GameMaker Studio"
+    },
+    "0081": {
+        "gameName": "Jacksmith",
+        "gameParts": 1,
+        "gameSystem": "Adobe Flash"
+    },
+    "0082": {
+        "gameName": "Jelly Truck",
+        "gameParts": 2,
+        "gameSystem": "HTML5"
+    },
+    "0083": {
+        "gameName": "Kirby & The Amazing Mirror",
+        "gameParts": 1,
+        "gameSystem": "Nintendo Game Boy Advance"
+    },
+    "0084": {
+        "gameName": "Kirby - Nightmare in Dreamland",
+        "gameParts": 1,
+        "gameSystem": "Nintendo Game Boy Advance"
+    },
+    "0085": {
+        "gameName": "Kirby Super Star",
+        "gameParts": 1,
+        "gameSystem": "Super Nintendo Entertainment System"
+    },
+    "0086": {
+        "gameName": "Knightin'",
+        "gameParts": 1,
+        "gameSystem": "Construct"
+    },
+    "0087": {
+        "gameName": "Last Horizon",
+        "gameParts": 1,
+        "gameSystem": "GameMaker Studio"
+    },
+    "0088": {
+        "gameName": "Learn to Fly 1",
+        "gameParts": 1,
+        "gameSystem": "Adobe Flash"
+    },
+    "0089": {
+        "gameName": "Learn to Fly 2",
+        "gameParts": 1,
+        "gameSystem": "Adobe Flash"
+    },
+    "0090": {
+        "gameName": "Learn to Fly 3",
+        "gameParts": 2,
+        "gameSystem": "Adobe Flash"
+    },
+    "0091": {
+        "gameName": "Learn to Fly Idle",
+        "gameParts": 1,
+        "gameSystem": "Adobe Flash"
+    },
+    "0092": {
+        "gameName": "LEGO Star Wars - The Complete Saga",
+        "gameParts": 3,
+        "gameSystem": "Nintendo DS"
+    },
+    "0093": {
+        "gameName": "Little Alchemy 2",
+        "gameParts": 1,
+        "gameSystem": "HTML5"
+    },
+    "0094": {
+        "gameName": "Mario & Luigi - Bowser's Inside Story",
+        "gameParts": 4,
+        "gameSystem": "Nintendo DS"
+    },
+    "0095": {
+        "gameName": "Mario & Luigi - Partners in Time",
+        "gameParts": 2,
+        "gameSystem": "Nintendo DS"
+    },
+    "0096": {
+        "gameName": "Mario & Luigi - Superstar Saga",
+        "gameParts": 1,
+        "gameSystem": "Nintendo Game Boy Advance"
+    },
+    "0097": {
+        "gameName": "Mario & Sonic at the Olympic Games",
+        "gameParts": 6,
+        "gameSystem": "Nintendo DS"
+    },
+    "0098": {
+        "gameName": "Mario & Sonic at the Olympic Winter Games",
+        "gameParts": 5,
+        "gameSystem": "Nintendo DS"
+    },
+    "0099": {
+        "gameName": "Mario Golf",
+        "gameParts": 1,
+        "gameSystem": "Nintendo 64"
+    },
+    "0100": {
+        "gameName": "Mario Hoops 3 on 3",
+        "gameParts": 3,
+        "gameSystem": "Nintendo DS"
+    },
+    "0101": {
+        "gameName": "Mario Kart 64",
+        "gameParts": 1,
+        "gameSystem": "Nintendo 64"
+    },
+    "0102": {
+        "gameName": "Mario Kart DS",
+        "gameParts": 1,
+        "gameSystem": "Nintendo DS"
+    },
+    "0103": {
+        "gameName": "Mario Kart Super Circuit",
+        "gameParts": 1,
+        "gameSystem": "Nintendo Game Boy Advance"
+    },
+    "0104": {
+        "gameName": "Mario Party 1",
+        "gameParts": 2,
+        "gameSystem": "Nintendo 64"
+    },
+    "0105": {
+        "gameName": "Mario Party 2",
+        "gameParts": 2,
+        "gameSystem": "Nintendo 64"
+    },
+    "0106": {
+        "gameName": "Mario Party 3",
+        "gameParts": 2,
+        "gameSystem": "Nintendo 64"
+    },
+    "0107": {
+        "gameName": "Mario Party DS",
+        "gameParts": 1,
+        "gameSystem": "Nintendo DS"
+    },
+    "0108": {
+        "gameName": "Mario Tennis",
+        "gameParts": 1,
+        "gameSystem": "Nintendo 64"
+    },
+    "0109": {
+        "gameName": "Mario Tennis",
+        "gameParts": 1,
+        "gameSystem": "Nintendo Game Boy Color"
+    },
+    "0110": {
+        "gameName": "Mario Tennis - Power Tour",
+        "gameParts": 1,
+        "gameSystem": "Nintendo Game Boy Advance"
+    },
+    "0111": {
+        "gameName": "Mario Vs Donkey Kong 2 - March of the Minis",
+        "gameParts": 2,
+        "gameSystem": "Nintendo DS"
+    },
+    "0112": {
+        "gameName": "Mario vs. Donkey Kong",
+        "gameParts": 1,
+        "gameSystem": "Nintendo Game Boy Advance"
+    },
+    "0113": {
+        "gameName": "Mario vs. Donkey Kong 3 - Mini-Land Mayhem!",
+        "gameParts": 1,
+        "gameSystem": "Nintendo DS"
+    },
+    "0114": {
+        "gameName": "Mega Man 1",
+        "gameParts": 1,
+        "gameSystem": "Nintendo Entertainment System"
+    },
+    "0115": {
+        "gameName": "Mega Man 2",
+        "gameParts": 1,
+        "gameSystem": "Nintendo Entertainment System"
+    },
+    "0116": {
+        "gameName": "Mega Man 3",
+        "gameParts": 1,
+        "gameSystem": "Nintendo Entertainment System"
+    },
+    "0117": {
+        "gameName": "Mega Man 4",
+        "gameParts": 1,
+        "gameSystem": "Nintendo Entertainment System"
+    },
+    "0118": {
+        "gameName": "Mega Man 5",
+        "gameParts": 1,
+        "gameSystem": "Nintendo Entertainment System"
+    },
+    "0119": {
+        "gameName": "Mega Man 6",
+        "gameParts": 1,
+        "gameSystem": "Nintendo Entertainment System"
+    },
+    "0120": {
+        "gameName": "Mega Man 64",
+        "gameParts": 2,
+        "gameSystem": "Nintendo 64"
+    },
+    "0121": {
+        "gameName": "Metroid",
+        "gameParts": 1,
+        "gameSystem": "Nintendo Entertainment System"
+    },
+    "0122": {
+        "gameName": "Minecraft 1.12.2",
+        "gameParts": 1,
+        "gameSystem": "HTML5"
+    },
+    "0123": {
+        "gameName": "Minecraft 1.5.2",
+        "gameParts": 1,
+        "gameSystem": "HTML5"
+    },
+    "0124": {
+        "gameName": "Minecraft 1.8.8",
+        "gameParts": 1,
+        "gameSystem": "HTML5"
+    },
+    "0125": {
+        "gameName": "Moto X3M",
+        "gameParts": 1,
+        "gameSystem": "PhaserJS"
+    },
+    "0126": {
+        "gameName": "Moto X3M 2",
+        "gameParts": 1,
+        "gameSystem": "PhaserJS"
+    },
+    "0127": {
+        "gameName": "Moto X3M Pool Party",
+        "gameParts": 1,
+        "gameSystem": "PhaserJS"
+    },
+    "0128": {
+        "gameName": "Moto X3M Spooky Land",
+        "gameParts": 1,
+        "gameSystem": "PhaserJS"
+    },
+    "0129": {
+        "gameName": "Moto X3M Winter",
+        "gameParts": 1,
+        "gameSystem": "PhaserJS"
+    },
+    "0130": {
+        "gameName": "NBA Jam",
+        "gameParts": 1,
+        "gameSystem": "Super Nintendo Entertainment System"
+    },
+    "0131": {
+        "gameName": "NBA Jam - Tournament Edition",
+        "gameParts": 1,
+        "gameSystem": "Super Nintendo Entertainment System"
+    },
+    "0132": {
+        "gameName": "NBA Live '98",
+        "gameParts": 1,
+        "gameSystem": "Super Nintendo Entertainment System"
+    },
+    "0133": {
+        "gameName": "New Super Mario Bros",
+        "gameParts": 1,
+        "gameSystem": "Nintendo DS"
+    },
+    "0134": {
+        "gameName": "OvO",
+        "gameParts": 2,
+        "gameSystem": "Construct"
+    },
+    "0135": {
+        "gameName": "OvO 2",
+        "gameParts": 1,
+        "gameSystem": "Construct"
+    },
+    "0136": {
+        "gameName": "Paper Mario",
+        "gameParts": 2,
+        "gameSystem": "Nintendo 64"
+    },
+    "0137": {
+        "gameName": "Particle Clicker",
+        "gameParts": 1,
+        "gameSystem": "HTML5"
+    },
+    "0138": {
+        "gameName": "Plants vs. Zombies",
+        "gameParts": 2,
+        "gameSystem": "Nintendo DS"
+    },
+    "0139": {
+        "gameName": "Pocket Golf",
+        "gameParts": 1,
+        "gameSystem": "Construct"
+    },
+    "0140": {
+        "gameName": "Q-bert",
+        "gameParts": 1,
+        "gameSystem": "Nintendo Game Boy Color"
+    },
+    "0141": {
+        "gameName": "Retro Bowl",
+        "gameParts": 1,
+        "gameSystem": "GameMaker Studio"
+    },
+    "0142": {
+        "gameName": "Run 1",
+        "gameParts": 1,
+        "gameSystem": "Adobe Flash"
+    },
+    "0143": {
+        "gameName": "Run 2",
+        "gameParts": 1,
+        "gameSystem": "Adobe Flash"
+    },
+    "0144": {
+        "gameName": "Run 3",
+        "gameParts": 1,
+        "gameSystem": "Other"
+    },
+    "0145": {
+        "gameName": "Slice Master",
+        "gameParts": 1,
+        "gameSystem": "Other"
+    },
+    "0146": {
+        "gameName": "Slope",
+        "gameParts": 1,
+        "gameSystem": "Unity"
+    },
+    "0147": {
+        "gameName": "Snow Rider 3D",
+        "gameParts": 1,
+        "gameSystem": "Unity"
+    },
+    "0148": {
+        "gameName": "Soccer Random",
+        "gameParts": 1,
+        "gameSystem": "Construct"
+    },
+    "0149": {
+        "gameName": "Sonic Classic Collection",
+        "gameParts": 2,
+        "gameSystem": "Nintendo DS"
+    },
+    "0150": {
+        "gameName": "Space Invaders",
+        "gameParts": 1,
+        "gameSystem": "Nintendo Game Boy"
+    },
+    "0151": {
+        "gameName": "Spider-Man",
+        "gameParts": 2,
+        "gameSystem": "Nintendo 64"
+    },
+    "0152": {
+        "gameName": "Stack",
+        "gameParts": 1,
+        "gameSystem": "HTML5"
+    },
+    "0153": {
+        "gameName": "Stack Ball",
+        "gameParts": 1,
+        "gameSystem": "Unity"
+    },
+    "0154": {
+        "gameName": "Star Fox 64",
+        "gameParts": 1,
+        "gameSystem": "Nintendo 64"
+    },
+    "0155": {
+        "gameName": "Stickman Hook",
+        "gameParts": 1,
+        "gameSystem": "Unity"
+    },
+    "0156": {
+        "gameName": "Stranded Isle",
+        "gameParts": 1,
+        "gameSystem": "Other"
+    },
+    "0157": {
+        "gameName": "Suika Watermelon Game",
+        "gameParts": 3,
+        "gameSystem": "Unity"
+    },
+    "0158": {
+        "gameName": "Super Mario 64",
+        "gameParts": 1,
+        "gameSystem": "Nintendo 64"
+    },
+    "0159": {
+        "gameName": "Super Mario All-Stars",
+        "gameParts": 1,
+        "gameSystem": "Super Nintendo Entertainment System"
+    },
+    "0160": {
+        "gameName": "Super Mario Bros. 1",
+        "gameParts": 1,
+        "gameSystem": "Nintendo Entertainment System"
+    },
+    "0161": {
+        "gameName": "Super Mario Bros. 2",
+        "gameParts": 1,
+        "gameSystem": "Nintendo Entertainment System"
+    },
+    "0162": {
+        "gameName": "Super Mario Bros. 3",
+        "gameParts": 1,
+        "gameSystem": "Nintendo Entertainment System"
+    },
+    "0163": {
+        "gameName": "Super Mario Bros. Deluxe",
+        "gameParts": 1,
+        "gameSystem": "Nintendo Game Boy Color"
+    },
+    "0164": {
+        "gameName": "Super Mario Kart",
+        "gameParts": 1,
+        "gameSystem": "Super Nintendo Entertainment System"
+    },
+    "0165": {
+        "gameName": "Super Mario Land",
+        "gameParts": 1,
+        "gameSystem": "Nintendo Game Boy"
+    },
+    "0166": {
+        "gameName": "Super Mario Land 2 - 6 Golden Coins",
+        "gameParts": 1,
+        "gameSystem": "Nintendo Game Boy"
+    },
+    "0167": {
+        "gameName": "Super Mario Land 3 - Wario Land",
+        "gameParts": 1,
+        "gameSystem": "Nintendo Game Boy"
+    },
+    "0168": {
+        "gameName": "Super Mario World",
+        "gameParts": 1,
+        "gameSystem": "Super Nintendo Entertainment System"
+    },
+    "0169": {
+        "gameName": "Super Mario World 2 - Yoshi's Island",
+        "gameParts": 1,
+        "gameSystem": "Super Nintendo Entertainment System"
+    },
+    "0170": {
+        "gameName": "Super Metroid",
+        "gameParts": 1,
+        "gameSystem": "Super Nintendo Entertainment System"
+    },
+    "0171": {
+        "gameName": "Super Smash Bros",
+        "gameParts": 1,
+        "gameSystem": "Nintendo 64"
+    },
+    "0172": {
+        "gameName": "Tag",
+        "gameParts": 1,
+        "gameSystem": "Construct"
+    },
+    "0173": {
+        "gameName": "Tetris",
+        "gameParts": 1,
+        "gameSystem": "HTML5"
+    },
+    "0174": {
+        "gameName": "Tetris",
+        "gameParts": 1,
+        "gameSystem": "Nintendo Entertainment System"
+    },
+    "0175": {
+        "gameName": "The Legend of Zelda - A Link To The Past Four Swords",
+        "gameParts": 1,
+        "gameSystem": "Nintendo Game Boy Advance"
+    },
+    "0176": {
+        "gameName": "The Legend of Zelda - Link's Awakening",
+        "gameParts": 1,
+        "gameSystem": "Nintendo Game Boy Color"
+    },
+    "0177": {
+        "gameName": "The Legend of Zelda - Majora's Mask",
+        "gameParts": 2,
+        "gameSystem": "Nintendo 64"
+    },
+    "0178": {
+        "gameName": "The Legend of Zelda - Ocarina of Time",
+        "gameParts": 2,
+        "gameSystem": "Nintendo 64"
+    },
+    "0179": {
+        "gameName": "The Legend of Zelda - Oracle of Ages",
+        "gameParts": 1,
+        "gameSystem": "Nintendo Game Boy Color"
+    },
+    "0180": {
+        "gameName": "The Legend of Zelda - Oracle of Seasons",
+        "gameParts": 1,
+        "gameSystem": "Nintendo Game Boy Color"
+    },
+    "0181": {
+        "gameName": "The Legend of Zelda - The Minish Cap",
+        "gameParts": 1,
+        "gameSystem": "Nintendo Game Boy Advance"
+    },
+    "0182": {
+        "gameName": "Tiny Fishing",
+        "gameParts": 1,
+        "gameSystem": "HTML5"
+    },
+    "0183": {
+        "gameName": "Toy Defense",
+        "gameParts": 3,
+        "gameSystem": "HTML5"
+    },
+    "0184": {
+        "gameName": "Vex 1",
+        "gameParts": 1,
+        "gameSystem": "Adobe Flash"
+    },
+    "0185": {
+        "gameName": "Vex 2",
+        "gameParts": 1,
+        "gameSystem": "Adobe Flash"
+    },
+    "0186": {
+        "gameName": "Vex 3",
+        "gameParts": 1,
+        "gameSystem": "PhaserJS"
+    },
+    "0187": {
+        "gameName": "Vex 3 Xmas",
+        "gameParts": 1,
+        "gameSystem": "PhaserJS"
+    },
+    "0188": {
+        "gameName": "Vex 4",
+        "gameParts": 1,
+        "gameSystem": "PhaserJS"
+    },
+    "0189": {
+        "gameName": "Vex 5",
+        "gameParts": 1,
+        "gameSystem": "PhaserJS"
+    },
+    "0190": {
+        "gameName": "Vex 6",
+        "gameParts": 1,
+        "gameSystem": "PhaserJS"
+    },
+    "0191": {
+        "gameName": "Vex 7",
+        "gameParts": 2,
+        "gameSystem": "PhaserJS"
+    },
+    "0192": {
+        "gameName": "Vex 8",
+        "gameParts": 2,
+        "gameSystem": "PhaserJS"
+    },
+    "0193": {
+        "gameName": "Vex Challenges",
+        "gameParts": 1,
+        "gameSystem": "PhaserJS"
+    },
+    "0194": {
+        "gameName": "Vex X3M",
+        "gameParts": 1,
+        "gameSystem": "PhaserJS"
+    },
+    "0195": {
+        "gameName": "Vex X3M 2",
+        "gameParts": 1,
+        "gameSystem": "PhaserJS"
+    },
+    "0196": {
+        "gameName": "Volley Random",
+        "gameParts": 1,
+        "gameSystem": "Construct"
+    },
+    "0197": {
+        "gameName": "VS Super Mario Bros",
+        "gameParts": 1,
+        "gameSystem": "Nintendo Entertainment System"
+    },
+    "0198": {
+        "gameName": "Wario Land 2",
+        "gameParts": 1,
+        "gameSystem": "Nintendo Game Boy Color"
+    },
+    "0199": {
+        "gameName": "Wario Land 3",
+        "gameParts": 1,
+        "gameSystem": "Nintendo Game Boy Color"
+    },
+    "0200": {
+        "gameName": "Wario Land 4",
+        "gameParts": 1,
+        "gameSystem": "Nintendo Game Boy Advance"
+    },
+    "0201": {
+        "gameName": "Worlds Hardest Game",
+        "gameParts": 1,
+        "gameSystem": "Adobe Flash"
+    },
+    "0202": {
+        "gameName": "Worlds Hardest Game 2",
+        "gameParts": 1,
+        "gameSystem": "Adobe Flash"
+    },
+    "0203": {
+        "gameName": "Worlds Hardest Game 3",
+        "gameParts": 1,
+        "gameSystem": "Adobe Flash"
+    },
+    "0204": {
+        "gameName": "Worlds Hardest Game 4",
+        "gameParts": 1,
+        "gameSystem": "Adobe Flash"
+    },
+    "0205": {
+        "gameName": "Yoshi's Story",
+        "gameParts": 1,
+        "gameSystem": "Nintendo 64"
+    },
+    "0206": {
+        "gameName": "Zelda 1 - The Legend of Zelda",
+        "gameParts": 1,
+        "gameSystem": "Nintendo Entertainment System"
+    },
+    "0207": {
+        "gameName": "Zelda 2 - The Adventure of Link",
+        "gameParts": 1,
+        "gameSystem": "Nintendo Entertainment System"
+    }
+}
