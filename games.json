@@ -1264,5 +1264,11 @@
         "gameParts": 1,
         "gameSystem": "PhaserJS",
         "contentHash": "d8e6cb2a1a0d7950c0f80ac7e90b2fb32253d24b"
+    },
+    "9985": {
+        "gameName": "Crossy Road",
+        "gameParts": 1,
+        "gameSystem": "Other",
+        "contentHash": "e636170bb7857c6fec04657e25e557516dcbda7f"
     }
 }
