@@ -261,7 +261,7 @@
         "gameName": "Idle Breakout",
         "gameParts": 1,
         "gameSystem": "GameMaker Studio",
-        "contentHash": "2c2848467d451381b906e68f2a11323596554560"
+        "contentHash": "6e21a4b520d677db7e197ebbcf154015a601658a"
     },
     "3181": {
         "gameName": "Last Horizon",
@@ -1275,6 +1275,6 @@
         "gameName": "Bloxors",
         "gameParts": 1,
         "gameSystem": "Adobe Flash",
-        "contentHash": "ee396642528c75aea21860b43bda574b01380cc3"
+        "contentHash": "f5b4a8cdc6ce77faf2932f8af566cfe57c8af560"
     }
 }
