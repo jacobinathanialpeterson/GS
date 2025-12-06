@@ -351,7 +351,7 @@
         "gameName": "Little Alchemy 2",
         "gameParts": 1,
         "gameSystem": "HTML5",
-        "contentHash": "5b781beec90c657ad8a3b9cd2ba3e9d398ddf266"
+        "contentHash": "f760e029a5d7cd2c0bfdc7c3d01c547c13404874"
     },
     "7660": {
         "gameName": "Minecraft 1.12.2",
@@ -393,7 +393,7 @@
         "gameName": "Tiny Fishing",
         "gameParts": 1,
         "gameSystem": "HTML5",
-        "contentHash": "d33529f5f67749b078b655848edb20b3858080b5"
+        "contentHash": "71fa0e63e5ce6aca55c011042302bb2183bb5a3f"
     },
     "6265": {
         "gameName": "Toy Defense",
@@ -1270,5 +1270,11 @@
         "gameParts": 1,
         "gameSystem": "Other",
         "contentHash": "e636170bb7857c6fec04657e25e557516dcbda7f"
+    },
+    "9986": {
+        "gameName": "Bloxors",
+        "gameParts": 1,
+        "gameSystem": "Adobe Flash",
+        "contentHash": "ee396642528c75aea21860b43bda574b01380cc3"
     }
 }
