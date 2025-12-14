@@ -1276,5 +1276,17 @@
         "gameParts": 1,
         "gameSystem": "Adobe Flash",
         "contentHash": "f5b4a8cdc6ce77faf2932f8af566cfe57c8af560"
+    },
+    "9987": {
+        "gameName": "Temple of Boom",
+        "gameParts": 1,
+        "gameSystem": "Adobe Flash",
+        "contentHash": "075c9792d960bfab763330178218a1f5e2d548a0"
+    },
+    "9988": {
+        "gameName": "Rocket Goal io",
+        "gameParts": 1,
+        "gameSystem": "Unity",
+        "contentHash": "15afd134c3247266d0038572a288403c9cb5cf56"
     }
 }
