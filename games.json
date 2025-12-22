@@ -243,7 +243,7 @@
         "gameName": "Soccer Random",
         "gameParts": 1,
         "gameSystem": "Construct",
-        "contentHash": "ce66891ef248ce2a98ff6217706e9041c6f38561"
+        "contentHash": "dcf779617c18edaa5a6d6ffaada36e4259baae53"
     },
     "1486": {
         "gameName": "Tag",
@@ -1275,7 +1275,7 @@
         "gameName": "Bloxors",
         "gameParts": 1,
         "gameSystem": "Adobe Flash",
-        "contentHash": "f5b4a8cdc6ce77faf2932f8af566cfe57c8af560"
+        "contentHash": "ee396642528c75aea21860b43bda574b01380cc3"
     },
     "9987": {
         "gameName": "Temple of Boom",
@@ -1299,18 +1299,24 @@
         "gameName": "Throw a Potato Again",
         "gameParts": 1,
         "gameSystem": "Construct",
-        "contentHash": "c26e94728380c92c30f109c949ca82c086885cdb"
+        "contentHash": "c5f4db45093709f91cba66c95568c77b2c94b1c7"
     },
     "9992": {
         "gameName": "Shoot Out 4",
         "gameParts": 1,
         "gameSystem": "Construct",
-        "contentHash": "c9d6735da2f509ac345eb5533c54bbe2b31f2d63"
+        "contentHash": "df906525c53dc089ddc13a3df3691c96cf1ab42b"
     },
     "9993": {
         "gameName": "Shoot Out Reloaded",
         "gameParts": 1,
         "gameSystem": "Construct",
-        "contentHash": "fd73f9667fb93e68b434e3b025970f3ecd7404bc"
+        "contentHash": "d0130b186a6ec180b9de59c441a30dbaaaf08bc7"
+    },
+    "8335": {
+        "gameName": "Throw a Potato",
+        "gameParts": 1,
+        "gameSystem": "Construct",
+        "contentHash": "52e1480986d96b4e46e9feacf9cb3570e2f66999"
     }
 }
