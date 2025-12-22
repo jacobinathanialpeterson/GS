@@ -1288,5 +1288,23 @@
         "gameParts": 1,
         "gameSystem": "Unity",
         "contentHash": "15afd134c3247266d0038572a288403c9cb5cf56"
+    },
+    "9989": {
+        "gameName": "Orul",
+        "gameParts": 1,
+        "gameSystem": "Other",
+        "contentHash": "d15dbd9e4aacf484d77df3de5e6b92421c2c8825"
+    },
+    "9990": {
+        "gameName": "Shot Out 4",
+        "gameParts": 1,
+        "gameSystem": "Construct",
+        "contentHash": "de7648ac7cdd89957ab898fb0e7c5f28214193ed"
+    },
+    "9991": {
+        "gameName": "Throw a Potato Again",
+        "gameParts": 1,
+        "gameSystem": "Construct",
+        "contentHash": "c26e94728380c92c30f109c949ca82c086885cdb"
     }
 }
