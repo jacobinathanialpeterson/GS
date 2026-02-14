@@ -69,7 +69,7 @@
         "gameName": "Burrito Bison Revenge",
         "gameParts": 1,
         "gameSystem": "Adobe Flash",
-        "contentHash": "82e731f32397a2e74c9adef7b31682fa36ad3692"
+        "contentHash": "92cecc3dc141bfa44b21dfe868074f5e76c7db62"
     },
     "6900": {
         "gameName": "Dig to China",
@@ -1318,5 +1318,17 @@
         "gameParts": 1,
         "gameSystem": "Other",
         "contentHash": "d15dbd9e4aacf484d77df3de5e6b92421c2c8825"
+    },
+    "8819": {
+        "gameName": "PolyTrack",
+        "gameParts": 1,
+        "gameSystem": "HTML5",
+        "contentHash": "ce60c21a32882514f9bcc366155b2f7d152deb3d"
+    },
+    "4307": {
+        "gameName": "Pokemon - Emerald Version",
+        "gameParts": 1,
+        "gameSystem": "Nintendo Game Boy Advance",
+        "contentHash": "874cc5d023455796abf7dc2f67592b0b19ae0ba3"
     }
 }
