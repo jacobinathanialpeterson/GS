@@ -1330,5 +1330,17 @@
         "gameParts": 1,
         "gameSystem": "Nintendo Game Boy Advance",
         "contentHash": "874cc5d023455796abf7dc2f67592b0b19ae0ba3"
+    },
+    "5606": {
+        "gameName": "Rooftop Snipers",
+        "gameParts": 1,
+        "gameSystem": "Unity",
+        "contentHash": "69b24c19de5d285c86263456acbb339705ecf4c6"
+    },
+    "8026": {
+        "gameName": "Rooftop Snipers 2",
+        "gameParts": 2,
+        "gameSystem": "Unity",
+        "contentHash": "ff71e09d1393cbe26c9dfc5541369721d7c3efff"
     }
 }
