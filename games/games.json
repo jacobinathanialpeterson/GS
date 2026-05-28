@@ -525,577 +525,577 @@
         "gameName": "007 - GoldenEye",
         "gameParts": 1,
         "gameSystem": "Nintendo 64",
-        "contentHash": "38af801ad3adacf379ab82141658aeeadacf89ca"
+        "contentHash": "c92d211a2d48efe07ec0e7e10d944a9b4f9680b0"
     },
     "6379": {
         "gameName": "007 - The World Is Not Enough",
         "gameParts": 2,
         "gameSystem": "Nintendo 64",
-        "contentHash": "833f563ffeb6e5a9fd9636d0cbb10cdaafe6619a"
+        "contentHash": "db5371ae7fd9951bf5eb934ad0a5df113b51487d"
     },
     "5492": {
         "gameName": "Diddy Kong Racing",
         "gameParts": 1,
         "gameSystem": "Nintendo 64",
-        "contentHash": "3ad7298cbd3a130b124a6fe896fa6f0f72fd82e7"
+        "contentHash": "2fde3da2b9ca68d72744df446998db5ca7b3cd2f"
     },
     "9838": {
         "gameName": "Donkey Kong 64",
         "gameParts": 2,
         "gameSystem": "Nintendo 64",
-        "contentHash": "1c05c27be00a9b75ea7cd0069e5150a799758494"
+        "contentHash": "9e1619bc601ee8bb3b8a97b59aef19ed686bfbf4"
     },
     "6454": {
         "gameName": "Dr. Mario 64",
         "gameParts": 1,
         "gameSystem": "Nintendo 64",
-        "contentHash": "2a46f373775bf6483457a57225706ce490a4095d"
+        "contentHash": "924b2424c876a8866a998f3de6c55c823b577671"
     },
     "3963": {
         "gameName": "Mario Golf",
         "gameParts": 2,
         "gameSystem": "Nintendo 64",
-        "contentHash": "0922b51000c8526bf3a0dd000d536e06ce38247c"
+        "contentHash": "e829933fd16d2c7465a2ed93ff92ad5713b574a4"
     },
     "2704": {
         "gameName": "Mario Kart 64",
         "gameParts": 1,
         "gameSystem": "Nintendo 64",
-        "contentHash": "34450dbfa0ab83f38ce149035f4d4ef70a286301"
+        "contentHash": "7f824d6c9b3322ec93087d530696ef82c14d02d9"
     },
     "7634": {
         "gameName": "Mario Party 1",
         "gameParts": 2,
         "gameSystem": "Nintendo 64",
-        "contentHash": "13a56c417d6c1a4c80e32c3fd6c10c3de5b7397e"
+        "contentHash": "d7f6d9517d7b3cf108a9703c01ca5e4e9642f50f"
     },
     "8443": {
         "gameName": "Mario Party 2",
         "gameParts": 2,
         "gameSystem": "Nintendo 64",
-        "contentHash": "a2668411d5447f6c314baa0d327913834393f305"
+        "contentHash": "2fff62ef7fb6983c0cfdb085b65f2d369d978ead"
     },
     "7531": {
         "gameName": "Mario Party 3",
         "gameParts": 2,
         "gameSystem": "Nintendo 64",
-        "contentHash": "13311cadd88df30bcf0603e90457f055573943b5"
+        "contentHash": "64c2848c97dfcb65e22e1e62f4d96d7324fc37e3"
     },
     "7735": {
         "gameName": "Mario Tennis",
         "gameParts": 1,
         "gameSystem": "Nintendo 64",
-        "contentHash": "048dce9e708221b61c09dc36140509089cb274eb"
+        "contentHash": "ab0768c7bfd8f10005db0f577975271f06986023"
     },
     "1879": {
         "gameName": "Mega Man 64",
         "gameParts": 2,
         "gameSystem": "Nintendo 64",
-        "contentHash": "3644a21fe2f17572f8b6e6a03a7a5f47c9b27312"
+        "contentHash": "ab9bdc516f3b1c864672e39949a4e2cde2d5f1fb"
     },
     "8517": {
         "gameName": "Paper Mario",
         "gameParts": 3,
         "gameSystem": "Nintendo 64",
-        "contentHash": "c0ac2e87455f8dffdeb74a4b236098eb967d7787"
+        "contentHash": "ebb14838e10c4d9300d51090ae5f95c2de9b8474"
     },
     "3460": {
         "gameName": "Spider-Man",
         "gameParts": 2,
         "gameSystem": "Nintendo 64",
-        "contentHash": "2e685332678d583f3ce462ba20791c7721ebe421"
+        "contentHash": "8e069b609b4af82e5a570a28d4b16699f5a243b8"
     },
     "4384": {
         "gameName": "Star Fox 64",
         "gameParts": 1,
         "gameSystem": "Nintendo 64",
-        "contentHash": "6fe0dcd8fe78a8bce1c2cdcaa69179a08ddb72a3"
+        "contentHash": "45f0122fba002c0fc87ecbc9fa9d4e6ba386428e"
     },
     "2220": {
         "gameName": "Super Mario 64",
         "gameParts": 1,
         "gameSystem": "Nintendo 64",
-        "contentHash": "bdf9478d3c3c8b2f0c0910ed8b75d7e625c8cedb"
+        "contentHash": "978afb43eef389ae7a5c38d22eece4ec28e9f4d8"
     },
     "3182": {
         "gameName": "Super Smash Bros",
         "gameParts": 1,
         "gameSystem": "Nintendo 64",
-        "contentHash": "9aac3c2c9ee973bfb1af9e6c6cf6642f8c98f317"
+        "contentHash": "98fce901c3343c756abea1a6d0a9f530bc38b93f"
     },
     "0787": {
         "gameName": "The Legend of Zelda - Majora's Mask",
         "gameParts": 2,
         "gameSystem": "Nintendo 64",
-        "contentHash": "1f9131b3e7df6221ecc69bc115a818e5caf50709"
+        "contentHash": "32db0c26d0b2343776f48c2a4b4e1283d72beaa5"
     },
     "6167": {
         "gameName": "The Legend of Zelda - Ocarina of Time",
         "gameParts": 2,
         "gameSystem": "Nintendo 64",
-        "contentHash": "1313d4e015fa75e08f9c40192b50aa1b6eb8bfb0"
+        "contentHash": "e5b11446c38d91c71d54bd5c8feb3541c862dcf1"
     },
     "4684": {
         "gameName": "Yoshi's Story",
         "gameParts": 1,
         "gameSystem": "Nintendo 64",
-        "contentHash": "23cd6e5f94e25dc5ae24176f1cc2ac622f46512e"
+        "contentHash": "15bcc85e2915cb7231bba3b179192e8d96f3d798"
     },
     "1048": {
         "gameName": "Cars 1",
         "gameParts": 1,
         "gameSystem": "Nintendo DS",
-        "contentHash": "dedad47449d5d2fd7c1d0dc38eea0a49c0a03f7e"
+        "contentHash": "9b5638264166d93f740011829e7b296572893c06"
     },
     "4215": {
         "gameName": "Cars 2",
         "gameParts": 4,
         "gameSystem": "Nintendo DS",
-        "contentHash": "42c7de910e157a5a4b226c11e7c12b285eb75ef1"
+        "contentHash": "8597cae98aac4b5e7cf0c3e4321c4df5f8f62484"
     },
     "7687": {
         "gameName": "Donkey Kong - Jungle Climber",
         "gameParts": 4,
         "gameSystem": "Nintendo DS",
-        "contentHash": "2128d4519d2e29b484239a600446d3e00d896b3b"
+        "contentHash": "b9305b6f8fe90d10e83880f01142f08b4777a921"
     },
     "3402": {
         "gameName": "LEGO Star Wars - The Complete Saga",
         "gameParts": 4,
         "gameSystem": "Nintendo DS",
-        "contentHash": "9b90f34f7c6800acffc66b754f7dac2643a2c350"
+        "contentHash": "8f26a47993353f32dd9272606f7797794d937235"
     },
     "0120": {
         "gameName": "Mario & Luigi - Bowser's Inside Story",
         "gameParts": 7,
         "gameSystem": "Nintendo DS",
-        "contentHash": "26911417901fd3f08ecf108a72420c5177de4395"
+        "contentHash": "e1fdf8cf621cc0e8e19e86aa92d3c3a5c071b5f2"
     },
     "7341": {
         "gameName": "Mario & Luigi - Partners in Time",
         "gameParts": 4,
         "gameSystem": "Nintendo DS",
-        "contentHash": "24b4cf99fe612c02dda29fca8b01eedfa25ced89"
+        "contentHash": "ffd59c053ead6b6c5a4a6d9367dc676a57abbe27"
     },
     "3544": {
         "gameName": "Mario & Sonic at the Olympic Games",
         "gameParts": 7,
         "gameSystem": "Nintendo DS",
-        "contentHash": "fba4c02379d1a3340d332d30cda161e934e3e8aa"
+        "contentHash": "20118810a9ef526b8e634e21b9331bbaf31943c3"
     },
     "8332": {
         "gameName": "Mario & Sonic at the Olympic Winter Games",
         "gameParts": 7,
         "gameSystem": "Nintendo DS",
-        "contentHash": "ae57c7dce29d71d306d6d5211b6d599c51dfaaec"
+        "contentHash": "a1934881e1e1b68f0dc11f6fd12225a7c0cbdd26"
     },
     "8841": {
         "gameName": "Mario Hoops 3 on 3",
         "gameParts": 4,
         "gameSystem": "Nintendo DS",
-        "contentHash": "878d6c8b00f911487742cd40611e61a0d9741b65"
+        "contentHash": "ec604b6bfd946163cd3d209c1f796a47d0c04bfd"
     },
     "2429": {
         "gameName": "Mario Kart DS",
         "gameParts": 2,
         "gameSystem": "Nintendo DS",
-        "contentHash": "43cbc8df74c5f763f6b9557f4838acbd33893592"
+        "contentHash": "ebbaf1f7d06a1aca99d1798d7c50525c8f84d618"
     },
     "8656": {
         "gameName": "Mario Party DS",
         "gameParts": 2,
         "gameSystem": "Nintendo DS",
-        "contentHash": "87add23b41a70bb2e7b60d90284c09de308b1c69"
+        "contentHash": "4af6802b94f02925d87f32c213ea0a6057c3ec83"
     },
     "2210": {
         "gameName": "Mario Vs Donkey Kong 2 - March of the Minis",
         "gameParts": 4,
         "gameSystem": "Nintendo DS",
-        "contentHash": "2241454a9060e9e210860f02a12d6fedc4bedc8c"
+        "contentHash": "122db23799b20cc81c3855cf19bad5eda1591d97"
     },
     "1218": {
         "gameName": "Mario vs. Donkey Kong 3 - Mini-Land Mayhem!",
         "gameParts": 2,
         "gameSystem": "Nintendo DS",
-        "contentHash": "afac1e84733d27f9db8657e8630d021a78d096ee"
+        "contentHash": "9f5f9cc2204fbb3983c542aeaa9a2a48ca4e27c1"
     },
     "7728": {
         "gameName": "New Super Mario Bros",
         "gameParts": 2,
         "gameSystem": "Nintendo DS",
-        "contentHash": "ec9ef49cd833ca44f16576be972ff12b13170961"
+        "contentHash": "94d416b72af2a77114d57eb9717dd6af868cb672"
     },
     "7685": {
         "gameName": "Plants vs. Zombies",
         "gameParts": 4,
         "gameSystem": "Nintendo DS",
-        "contentHash": "c806f9e68f57d0d90a538dd92434bd57685b5bb3"
+        "contentHash": "a2168c807cd936342ed0710022d6ad185b266a28"
     },
     "8071": {
         "gameName": "Sonic Classic Collection",
         "gameParts": 4,
         "gameSystem": "Nintendo DS",
-        "contentHash": "18af2d3292a746ecb5955f4b94adecce197c23e0"
+        "contentHash": "8fa63d11ce46e6c76fc2af6e95c84674b0fd4334"
     },
     "1927": {
         "gameName": "Donkey Kong",
         "gameParts": 1,
         "gameSystem": "Nintendo Entertainment System",
-        "contentHash": "aeffd00c0ea90bcb6c09a4d11d38c9fb0d824f99"
+        "contentHash": "8012370a7a1663672689c8fd1739d35505d7c636"
     },
     "5830": {
         "gameName": "Donkey Kong Jr",
         "gameParts": 1,
         "gameSystem": "Nintendo Entertainment System",
-        "contentHash": "06d82d642be25cd3466683d455c9f4313e23a1f6"
+        "contentHash": "d4bd878fbd74318f2bfd2d4e36c3a5fced3af294"
     },
     "4833": {
         "gameName": "Dr. Mario",
         "gameParts": 1,
         "gameSystem": "Nintendo Entertainment System",
-        "contentHash": "1396b070bd399fa237af321b3d30538cf610cc56"
+        "contentHash": "ba438ee4b8f21caee832562f6c4ad4c1fe08c188"
     },
     "6693": {
         "gameName": "Galaga - Demons of Death",
         "gameParts": 1,
         "gameSystem": "Nintendo Entertainment System",
-        "contentHash": "0a3fb4ac07e4f36d12517dfba1997ec4da6d393b"
+        "contentHash": "d1a1e3a01e687e04492514f535ceee05d2028d4c"
     },
     "2137": {
         "gameName": "Mega Man 1",
         "gameParts": 1,
         "gameSystem": "Nintendo Entertainment System",
-        "contentHash": "25e274c40b206e80406a75045a7c9b681b39638e"
+        "contentHash": "b07a3c044ead88169e6bc81e2ec5b9434f5f2cc6"
     },
     "1621": {
         "gameName": "Mega Man 2",
         "gameParts": 1,
         "gameSystem": "Nintendo Entertainment System",
-        "contentHash": "2b772780ad7472482111c06dc7f572988badea8d"
+        "contentHash": "2d7d916dbfd04147abf08761d2fde143f0ca7234"
     },
     "4129": {
         "gameName": "Mega Man 3",
         "gameParts": 1,
         "gameSystem": "Nintendo Entertainment System",
-        "contentHash": "c3a5425feb4831a8355f9b8523ae820a2ed7859a"
+        "contentHash": "6bd14f90085abb1edba8be477daaa261e6af65c6"
     },
     "9302": {
         "gameName": "Mega Man 4",
         "gameParts": 1,
         "gameSystem": "Nintendo Entertainment System",
-        "contentHash": "8f2b85e22d1a72f5662e30f29600f4e749defcef"
+        "contentHash": "1af16620527ddeb152dd81b5c879f2a1b4bd63bd"
     },
     "7849": {
         "gameName": "Mega Man 5",
         "gameParts": 1,
         "gameSystem": "Nintendo Entertainment System",
-        "contentHash": "07fd851488712c46b8138bac6a21ec61d0dcb178"
+        "contentHash": "b66e99cc0afc1cabd7b79f51533bbf8c1aa84dcf"
     },
     "3625": {
         "gameName": "Mega Man 6",
         "gameParts": 1,
         "gameSystem": "Nintendo Entertainment System",
-        "contentHash": "a9a64d8f52fb46f9b4d5c2fb4b5c5e5d4ed9b7d9"
+        "contentHash": "64398d29b110db7f1e06afb7877735e6e53317ed"
     },
     "4771": {
         "gameName": "Metroid",
         "gameParts": 1,
         "gameSystem": "Nintendo Entertainment System",
-        "contentHash": "1be8d11debcae9ae77d8bf5bca67ff25412b6ffa"
+        "contentHash": "1deca4039166bc6480e5b73e82c92e47691fd6af"
     },
     "9715": {
         "gameName": "Super Mario Bros. 1",
         "gameParts": 1,
         "gameSystem": "Nintendo Entertainment System",
-        "contentHash": "f4771786861afb429dd89cf44260f5d551149712"
+        "contentHash": "fd5e4d4a9096aba61e823e531239a8af5cbd8492"
     },
     "3901": {
         "gameName": "Super Mario Bros. 2",
         "gameParts": 1,
         "gameSystem": "Nintendo Entertainment System",
-        "contentHash": "d952485c0b8dac89659d3863a9aa85b3aaf9c9b5"
+        "contentHash": "369c75dddd81b535c0ef7774845d0e1218cb568f"
     },
     "5064": {
         "gameName": "Super Mario Bros. 3",
         "gameParts": 1,
         "gameSystem": "Nintendo Entertainment System",
-        "contentHash": "b0445308e183ecfa7ef2cd3d5c70e321bf135ebb"
+        "contentHash": "226a6109be3a0bb86aeca2f291937f5fbb153e04"
     },
     "3203": {
         "gameName": "Tetris",
         "gameParts": 1,
         "gameSystem": "Nintendo Entertainment System",
-        "contentHash": "bbe4934fe74463a27dc6010b88bfec7d67d0aa90"
+        "contentHash": "5b767bdf626b1604893b64b55ffc5d6dc358efed"
     },
     "7464": {
         "gameName": "VS Super Mario Bros",
         "gameParts": 1,
         "gameSystem": "Nintendo Entertainment System",
-        "contentHash": "099c15cc20200db32f9705c74058d0fc97c1ac73"
+        "contentHash": "5e2372d77fef43f9789f1efca6b132f93563a227"
     },
     "3242": {
         "gameName": "Zelda 1 - The Legend of Zelda",
         "gameParts": 1,
         "gameSystem": "Nintendo Entertainment System",
-        "contentHash": "b2ce7137672c23dd59a6c8f59efb542d4e1e3c60"
+        "contentHash": "3fe037d000cc1397026f87dc321b0544aa9ac1f5"
     },
     "2535": {
         "gameName": "Zelda 2 - The Adventure of Link",
         "gameParts": 1,
         "gameSystem": "Nintendo Entertainment System",
-        "contentHash": "adcdcf97ed019fe3016dec37df67a4e4469e28d4"
+        "contentHash": "7a11e2474218efba536a3d15e1ca181ecee99fe8"
     },
     "2696": {
         "gameName": "Donkey Kong Land",
         "gameParts": 1,
         "gameSystem": "Nintendo Game Boy",
-        "contentHash": "40f462b096f577a7a60b6e13c6cb960bd2eccf5f"
+        "contentHash": "1776712a963efb86f529d0321023469be63aecae"
     },
     "9241": {
         "gameName": "Donkey Kong Land 2",
         "gameParts": 1,
         "gameSystem": "Nintendo Game Boy",
-        "contentHash": "3c156a243f209da34ffb50c60d68068ac348ac68"
+        "contentHash": "a1f88c74e6d30d93b712d9974dbbb361df279333"
     },
     "8797": {
         "gameName": "Donkey Kong Land 3",
         "gameParts": 1,
         "gameSystem": "Nintendo Game Boy",
-        "contentHash": "a09ad47923a69c1f9fc5ac1e8fcd4452c15a6af0"
+        "contentHash": "9abf3497362a9edbea77a19b5f71d8098e971b11"
     },
     "5359": {
         "gameName": "Space Invaders",
         "gameParts": 1,
         "gameSystem": "Nintendo Game Boy",
-        "contentHash": "0f23284c0a6af938863ed8904f90bfe159b658ea"
+        "contentHash": "9a898e2e0576f5d74ba813c972662dcd4054452d"
     },
     "1662": {
         "gameName": "Super Mario Land",
         "gameParts": 1,
         "gameSystem": "Nintendo Game Boy",
-        "contentHash": "54bca4db2ff69ec9e31872b898ad5d4042ff712d"
+        "contentHash": "7d1c11cd527e3bc2a38e262d564309e8396c334a"
     },
     "2609": {
         "gameName": "Super Mario Land 2 - 6 Golden Coins",
         "gameParts": 1,
         "gameSystem": "Nintendo Game Boy",
-        "contentHash": "f7ecba92c37b3db74b9ea27032206e3d24cb5096"
+        "contentHash": "06ab03370686a64d8ee05e03763483c4b7ec56cd"
     },
     "5624": {
         "gameName": "Super Mario Land 3 - Wario Land",
         "gameParts": 1,
         "gameSystem": "Nintendo Game Boy",
-        "contentHash": "78a6e7a132017f01ea4a6af4892f6ea48ec733b9"
+        "contentHash": "62524b9f7dcaf4da8df87d30cd6bbf1260f1d033"
     },
     "4452": {
         "gameName": "Donkey Kong - King of Swing GBA",
         "gameParts": 1,
         "gameSystem": "Nintendo Game Boy Advance",
-        "contentHash": "a504f94c1083aa633d348f095867d6270c795132"
+        "contentHash": "da81fcf573f3c001e4dba302a040aa15ed4a506d"
     },
     "2097": {
         "gameName": "Kirby & The Amazing Mirror",
         "gameParts": 1,
         "gameSystem": "Nintendo Game Boy Advance",
-        "contentHash": "e2519a0637877c340f75f4ddf68a1edc2a05b84f"
+        "contentHash": "0d05fe56ceb8c04c567cf0a9d843c4b3b8eaf3d3"
     },
     "4810": {
         "gameName": "Kirby - Nightmare in Dreamland",
         "gameParts": 1,
         "gameSystem": "Nintendo Game Boy Advance",
-        "contentHash": "bbb6caf2e27e2b2fe75d11174db493eaaadfc504"
+        "contentHash": "b2e2aaa6d18cff3a9c763a08808c7117c11c3a8a"
     },
     "9725": {
         "gameName": "Mario & Luigi - Superstar Saga",
         "gameParts": 1,
         "gameSystem": "Nintendo Game Boy Advance",
-        "contentHash": "040533378b2cd5e78e65bfb7697f97d4eabf2f5d"
+        "contentHash": "8803d916adf023927f859f94e0748e11fe19a582"
     },
     "6770": {
         "gameName": "Mario Kart Super Circuit",
         "gameParts": 1,
         "gameSystem": "Nintendo Game Boy Advance",
-        "contentHash": "dfa480ae39491565948b7e7b9c976f29431f6689"
+        "contentHash": "94b5de291670fbc8cbc9bc00ef06fbacf278bf1d"
     },
     "6885": {
         "gameName": "Mario Tennis - Power Tour",
         "gameParts": 1,
         "gameSystem": "Nintendo Game Boy Advance",
-        "contentHash": "82a341df19753a8a0c3605e7b85f0c31b5246c1f"
+        "contentHash": "a891a5a275c86955f0b32de389cfb38aa138010b"
     },
     "8088": {
         "gameName": "Mario vs. Donkey Kong",
         "gameParts": 1,
         "gameSystem": "Nintendo Game Boy Advance",
-        "contentHash": "d0a021a01fc530924969449e89295ee429d26c22"
+        "contentHash": "4d1bf3d9a524e8b273e7be133c1d0dbac24ea5f5"
     },
     "0558": {
         "gameName": "The Legend of Zelda - A Link To The Past Four Swords",
         "gameParts": 1,
         "gameSystem": "Nintendo Game Boy Advance",
-        "contentHash": "7cf23f9d6e96bfd79c143866a88410cd19c19d1b"
+        "contentHash": "f537c5caf6f534c796f63fac9c8d9dc1edc5b9f3"
     },
     "2664": {
         "gameName": "The Legend of Zelda - The Minish Cap",
         "gameParts": 1,
         "gameSystem": "Nintendo Game Boy Advance",
-        "contentHash": "0398b79888b86a46c6677e1968f3393190a5bef5"
+        "contentHash": "0cca5913841b0d97e7c036e3d293fc62a6e2e523"
     },
     "9304": {
         "gameName": "Wario Land 4",
         "gameParts": 1,
         "gameSystem": "Nintendo Game Boy Advance",
-        "contentHash": "c9d7c485bf9294c666f387affa6fbecbfe10de4d"
+        "contentHash": "5e9811acc226a68f4e066477b4811106d842246d"
     },
     "6802": {
         "gameName": "Mario Tennis",
         "gameParts": 1,
         "gameSystem": "Nintendo Game Boy Color",
-        "contentHash": "cd4445be667744af2d6912a945a1514a00ac8a7f"
+        "contentHash": "8810c6895d35736fc0613a5dc92480248c7c1d2b"
     },
     "4082": {
         "gameName": "Q-bert",
         "gameParts": 1,
         "gameSystem": "Nintendo Game Boy Color",
-        "contentHash": "aad4472ef10ed4e8711a94a4c72f999822b23fd3"
+        "contentHash": "8797db40b80f71a36715a5bffce22e197d36deef"
     },
     "6598": {
         "gameName": "Super Mario Bros. Deluxe",
         "gameParts": 1,
         "gameSystem": "Nintendo Game Boy Color",
-        "contentHash": "63d712bc3859a6ddb4cec5e9808357513703310e"
+        "contentHash": "f9e51fe9049c207bbff1532e8a6ea0e64a8697c7"
     },
     "5144": {
         "gameName": "The Legend of Zelda - Link's Awakening",
         "gameParts": 1,
         "gameSystem": "Nintendo Game Boy Color",
-        "contentHash": "59fe2529f6ef75885b96bc1b413c31c7ec69579a"
+        "contentHash": "4d759ed5b89c70e18facc17182f84a875925c8fb"
     },
     "6235": {
         "gameName": "The Legend of Zelda - Oracle of Ages",
         "gameParts": 1,
         "gameSystem": "Nintendo Game Boy Color",
-        "contentHash": "6aa619a3185e1f073aeabbe4bfb845789b65bdb8"
+        "contentHash": "5562f3ff6a396ed6e72c36586f98a5ea7ca6bd47"
     },
     "3462": {
         "gameName": "The Legend of Zelda - Oracle of Seasons",
         "gameParts": 1,
         "gameSystem": "Nintendo Game Boy Color",
-        "contentHash": "e2b1c84e92261c7a693019e6d6d24eaeb4156506"
+        "contentHash": "d852cc4f0a87e32ccbad01e5188147c3158ee34a"
     },
     "8022": {
         "gameName": "Wario Land 2",
         "gameParts": 1,
         "gameSystem": "Nintendo Game Boy Color",
-        "contentHash": "1ed4fa218ee255712a9a9b9914f7e8d10778524a"
+        "contentHash": "7bd54ad7677400da776db814423ab61b94c27c76"
     },
     "8365": {
         "gameName": "Wario Land 3",
         "gameParts": 1,
         "gameSystem": "Nintendo Game Boy Color",
-        "contentHash": "fa7b122af23e2489c7cbfe0813d90e628352c0b3"
+        "contentHash": "455ec1401914bcbf35530b294703af04073cdabc"
     },
     "1933": {
         "gameName": "Crash Bandicoot",
         "gameParts": 32,
         "gameSystem": "PlayStation 1",
-        "contentHash": "5eecf3ec6992d4c1c830927d860f18bfd218a457"
+        "contentHash": "9a20ccec0d383be9940e109985421e9a2edc982a"
     },
     "8152": {
         "gameName": "Crash Bandicoot 2 - Cortex Strikes Back",
         "gameParts": 10,
         "gameSystem": "PlayStation 1",
-        "contentHash": "2b8bd80a5a30baf8436be404e939f8d3983751d7"
+        "contentHash": "a1708b98a9c218598fb8b7d9b26966471efe3d51"
     },
     "6717": {
         "gameName": "Crash Bandicoot 3 - Warped",
         "gameParts": 15,
         "gameSystem": "PlayStation 1",
-        "contentHash": "e3929f2be00cb41b44d47192a65d7f41a3ee198f"
+        "contentHash": "d5fc0a70ebf96adf1568f9c5a0b6a18dcfdf607f"
     },
     "9740": {
         "gameName": "CTR - Crash Team Racing",
         "gameParts": 31,
         "gameSystem": "PlayStation 1",
-        "contentHash": "9bdec0141a34cbbf8babe0f4ff4dc81438599066"
+        "contentHash": "4f200634fc1bd69e750f6b84fea76daa99e47cc0"
     },
     "0845": {
         "gameName": "Donkey Kong Country",
         "gameParts": 1,
         "gameSystem": "Super Nintendo Entertainment System",
-        "contentHash": "e7f9d4a482f183c52cd7efc1b6cd51ef405b2473"
+        "contentHash": "6e5c3072158ce421a382849a6ed365a8b973f9ed"
     },
     "3534": {
         "gameName": "Donkey Kong Country 2 - Diddy\u2019s Kong Quest",
         "gameParts": 1,
         "gameSystem": "Super Nintendo Entertainment System",
-        "contentHash": "1e1837a1f042134fd4a1f4706bef8538058fdfc9"
+        "contentHash": "462d32fbf975f10f65640744e05120aed6f68cf5"
     },
     "5003": {
         "gameName": "Donkey Kong Country 3 - Dixie Kong\u2019s Double Trouble!",
         "gameParts": 1,
         "gameSystem": "Super Nintendo Entertainment System",
-        "contentHash": "274474fae168795bd197918acb54ab394600e0f0"
+        "contentHash": "6a3ad47c653f38ecfcdc75e634ba46af426ea473"
     },
     "8842": {
         "gameName": "Kirby Super Star",
         "gameParts": 1,
         "gameSystem": "Super Nintendo Entertainment System",
-        "contentHash": "7b122147287fb9a0e314f29fa60b0aac0ac74e2a"
+        "contentHash": "700ab248995dd83d2612bb0e1acda6493c65a237"
     },
     "8676": {
         "gameName": "NBA Jam",
         "gameParts": 1,
         "gameSystem": "Super Nintendo Entertainment System",
-        "contentHash": "bd4b5d85d415f93d6a485698f38b9a8c3590bfda"
+        "contentHash": "ee59fd17a89ee8d2f1cf9e451395c0d48e7615c6"
     },
     "1252": {
         "gameName": "NBA Jam - Tournament Edition",
         "gameParts": 1,
         "gameSystem": "Super Nintendo Entertainment System",
-        "contentHash": "5ec23e3d0a170f328deae6f0ec0ab5d3a7a022d0"
+        "contentHash": "8a13de616dbe59c6f97df8a3b605f737c1d16549"
     },
     "5406": {
         "gameName": "NBA Live '98",
         "gameParts": 1,
         "gameSystem": "Super Nintendo Entertainment System",
-        "contentHash": "1b67b82172660abedf7929e2a5aa3e5608ed5b2f"
+        "contentHash": "ff240537cc080dd99de9485747aafc5246876e69"
     },
     "3366": {
         "gameName": "Super Mario All-Stars",
         "gameParts": 1,
         "gameSystem": "Super Nintendo Entertainment System",
-        "contentHash": "6bb1af66d3893f3866f284e243742ba4e3630b9a"
+        "contentHash": "715aa93aa952a9b29cd0f06ef53a7899c2ec37e8"
     },
     "3815": {
         "gameName": "Super Mario Kart",
         "gameParts": 1,
         "gameSystem": "Super Nintendo Entertainment System",
-        "contentHash": "b579bc2a0455ba3889b7a127664a47b48abfb6b1"
+        "contentHash": "7368bced92fa015d90b918ea54216fb0bd1f387e"
     },
     "2906": {
         "gameName": "Super Mario World",
         "gameParts": 1,
         "gameSystem": "Super Nintendo Entertainment System",
-        "contentHash": "fdb4aa5a546b16639c9ccdb9a95429c1f1616f36"
+        "contentHash": "fe61373f60374e4eac6f9fd83ae3184c9e989ce7"
     },
     "3026": {
         "gameName": "Super Mario World 2 - Yoshi's Island",
         "gameParts": 1,
         "gameSystem": "Super Nintendo Entertainment System",
-        "contentHash": "49a6311594a27659a815acc79e0e7cebbb3e3e15"
+        "contentHash": "63a924e6afe71ba320ef5aab7d3f20cc4a5a3d62"
     },
     "5362": {
         "gameName": "Super Metroid",
         "gameParts": 1,
         "gameSystem": "Super Nintendo Entertainment System",
-        "contentHash": "29c044fa5dad8a0e791582e0ab5fad764f21e20d"
+        "contentHash": "8833a1f5995dfe391e8f69aad3c2ecdd91800c3a"
     },
     "9983": {
         "gameName": "3-D Tetris",
         "gameParts": 1,
         "gameSystem": "Virtual Boy",
-        "contentHash": "8fd6f7ffc61f213d96353e8e5a6ab4b089035db9"
+        "contentHash": "5c2f57b1a7e74d971f96119e30c3b7c5601bc0ed"
     },
     "2769": {
         "gameName": "1v1.lol",
@@ -1329,7 +1329,7 @@
         "gameName": "Pokemon - Emerald Version",
         "gameParts": 1,
         "gameSystem": "Nintendo Game Boy Advance",
-        "contentHash": "874cc5d023455796abf7dc2f67592b0b19ae0ba3"
+        "contentHash": "fa6c6aba8467459976df9f5ccf0188196d14756e"
     },
     "5606": {
         "gameName": "Rooftop Snipers",
