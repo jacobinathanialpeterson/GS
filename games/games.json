@@ -1,1346 +1,1346 @@
 {
     "2758": {
-        "gameName": "60 Seconds Burger Run",
-        "gameParts": 1,
-        "gameSystem": "Adobe Flash",
+        "title": "60 Seconds Burger Run",
+        "parts": 1,
+        "system": "Adobe Flash",
         "contentHash": "7a1f800e56b712a689d95f256cbf1bacf22afda2"
     },
     "4967": {
-        "gameName": "Awesome Planes",
-        "gameParts": 1,
-        "gameSystem": "Adobe Flash",
+        "title": "Awesome Planes",
+        "parts": 1,
+        "system": "Adobe Flash",
         "contentHash": "e59deb7a516af7b75c57c30113ab957fb43b3d73"
     },
     "6921": {
-        "gameName": "Awesome Tanks",
-        "gameParts": 1,
-        "gameSystem": "Adobe Flash",
+        "title": "Awesome Tanks",
+        "parts": 1,
+        "system": "Adobe Flash",
         "contentHash": "86a1a640a136afc4f9cb4ac24673ed1b17bb3ef4"
     },
     "2602": {
-        "gameName": "Awesome Tanks 2",
-        "gameParts": 1,
-        "gameSystem": "Adobe Flash",
+        "title": "Awesome Tanks 2",
+        "parts": 1,
+        "system": "Adobe Flash",
         "contentHash": "65cdcf39d4ec30be7d5b4ae8db0d0bd45d9f7ff1"
     },
     "0892": {
-        "gameName": "Bloons Tower Defense 1",
-        "gameParts": 1,
-        "gameSystem": "Adobe Flash",
+        "title": "Bloons Tower Defense 1",
+        "parts": 1,
+        "system": "Adobe Flash",
         "contentHash": "baee818c9b938978583ef17fb8ef7056024c9b7e"
     },
     "0192": {
-        "gameName": "Bloons Tower Defense 2",
-        "gameParts": 1,
-        "gameSystem": "Adobe Flash",
+        "title": "Bloons Tower Defense 2",
+        "parts": 1,
+        "system": "Adobe Flash",
         "contentHash": "bacce53f0d532ef42b52b75e900d60f06961dbb5"
     },
     "3915": {
-        "gameName": "Bloons Tower Defense 3",
-        "gameParts": 1,
-        "gameSystem": "Adobe Flash",
+        "title": "Bloons Tower Defense 3",
+        "parts": 1,
+        "system": "Adobe Flash",
         "contentHash": "04bc7f312ca47924ba43dbd08bd2fcd6e3bcb739"
     },
     "4389": {
-        "gameName": "Bloons Tower Defense 4",
-        "gameParts": 1,
-        "gameSystem": "Adobe Flash",
+        "title": "Bloons Tower Defense 4",
+        "parts": 1,
+        "system": "Adobe Flash",
         "contentHash": "2bd1397ac6ab59b1d0c96aec2162490835aba333"
     },
     "3474": {
-        "gameName": "Bloons Tower Defense 4 Expansion",
-        "gameParts": 1,
-        "gameSystem": "Adobe Flash",
+        "title": "Bloons Tower Defense 4 Expansion",
+        "parts": 1,
+        "system": "Adobe Flash",
         "contentHash": "5d13a6148141dda82bc5b5f120d297b1694c8b47"
     },
     "3176": {
-        "gameName": "Bloons Tower Defense 5",
-        "gameParts": 1,
-        "gameSystem": "Adobe Flash",
+        "title": "Bloons Tower Defense 5",
+        "parts": 1,
+        "system": "Adobe Flash",
         "contentHash": "dff83331631ce49b2162606496261d24c7c13042"
     },
     "6398": {
-        "gameName": "Burrito Bison",
-        "gameParts": 1,
-        "gameSystem": "Adobe Flash",
+        "title": "Burrito Bison",
+        "parts": 1,
+        "system": "Adobe Flash",
         "contentHash": "2b2ba4cf2df9cbc6fedff8fa7a5497f9a02b6f03"
     },
     "1872": {
-        "gameName": "Burrito Bison Revenge",
-        "gameParts": 1,
-        "gameSystem": "Adobe Flash",
+        "title": "Burrito Bison Revenge",
+        "parts": 1,
+        "system": "Adobe Flash",
         "contentHash": "92cecc3dc141bfa44b21dfe868074f5e76c7db62"
     },
     "6900": {
-        "gameName": "Dig to China",
-        "gameParts": 1,
-        "gameSystem": "Adobe Flash",
+        "title": "Dig to China",
+        "parts": 1,
+        "system": "Adobe Flash",
         "contentHash": "d2ffcd0e00c336d8ad54cdbd4094a465877616aa"
     },
     "9090": {
-        "gameName": "Duck Life 5",
-        "gameParts": 1,
-        "gameSystem": "Adobe Flash",
+        "title": "Duck Life 5",
+        "parts": 1,
+        "system": "Adobe Flash",
         "contentHash": "37fa096567fe766723b13ef2a471709a88eeac02"
     },
     "9836": {
-        "gameName": "Jacksmith",
-        "gameParts": 1,
-        "gameSystem": "Adobe Flash",
+        "title": "Jacksmith",
+        "parts": 1,
+        "system": "Adobe Flash",
         "contentHash": "36078a97d0a3f1eae8757bd11cd661e7ca527847"
     },
     "0043": {
-        "gameName": "Learn to Fly 1",
-        "gameParts": 1,
-        "gameSystem": "Adobe Flash",
+        "title": "Learn to Fly 1",
+        "parts": 1,
+        "system": "Adobe Flash",
         "contentHash": "e377b3f245c9cafd9961eb3448175caac3419649"
     },
     "8593": {
-        "gameName": "Learn to Fly 2",
-        "gameParts": 1,
-        "gameSystem": "Adobe Flash",
+        "title": "Learn to Fly 2",
+        "parts": 1,
+        "system": "Adobe Flash",
         "contentHash": "5cce0886838774586a4f7d853a55e6d01a1d392a"
     },
     "4916": {
-        "gameName": "Learn to Fly 3",
-        "gameParts": 2,
-        "gameSystem": "Adobe Flash",
+        "title": "Learn to Fly 3",
+        "parts": 2,
+        "system": "Adobe Flash",
         "contentHash": "b21c79d096a7bbf8433564dc719d2bef11306f2f"
     },
     "4328": {
-        "gameName": "Learn to Fly Idle",
-        "gameParts": 1,
-        "gameSystem": "Adobe Flash",
+        "title": "Learn to Fly Idle",
+        "parts": 1,
+        "system": "Adobe Flash",
         "contentHash": "c8dc01bf4d5d4b724aaa86cd9e8b07e2754a8ab1"
     },
     "3206": {
-        "gameName": "Run 1",
-        "gameParts": 1,
-        "gameSystem": "Adobe Flash",
+        "title": "Run 1",
+        "parts": 1,
+        "system": "Adobe Flash",
         "contentHash": "fd4d7ffd0ebbf8e24af985025328a92b34373fb9"
     },
     "3413": {
-        "gameName": "Run 2",
-        "gameParts": 1,
-        "gameSystem": "Adobe Flash",
+        "title": "Run 2",
+        "parts": 1,
+        "system": "Adobe Flash",
         "contentHash": "c7f9911a4e4d8ea219e8a08d76d3cf54276f513f"
     },
     "9496": {
-        "gameName": "Vex 1",
-        "gameParts": 1,
-        "gameSystem": "Adobe Flash",
+        "title": "Vex 1",
+        "parts": 1,
+        "system": "Adobe Flash",
         "contentHash": "5a0597320178df5a36fd4a9d58fe36334504a142"
     },
     "3198": {
-        "gameName": "Vex 2",
-        "gameParts": 1,
-        "gameSystem": "Adobe Flash",
+        "title": "Vex 2",
+        "parts": 1,
+        "system": "Adobe Flash",
         "contentHash": "490cf7e4f65226628f042a768961779df750f691"
     },
     "9860": {
-        "gameName": "Worlds Hardest Game",
-        "gameParts": 1,
-        "gameSystem": "Adobe Flash",
+        "title": "Worlds Hardest Game",
+        "parts": 1,
+        "system": "Adobe Flash",
         "contentHash": "281328d8da6fd4c8583f66c63e8e749dd24739cc"
     },
     "6749": {
-        "gameName": "Worlds Hardest Game 2",
-        "gameParts": 1,
-        "gameSystem": "Adobe Flash",
+        "title": "Worlds Hardest Game 2",
+        "parts": 1,
+        "system": "Adobe Flash",
         "contentHash": "743469e6bd066af7c95197e05484c99a6d74549a"
     },
     "2903": {
-        "gameName": "Worlds Hardest Game 3",
-        "gameParts": 1,
-        "gameSystem": "Adobe Flash",
+        "title": "Worlds Hardest Game 3",
+        "parts": 1,
+        "system": "Adobe Flash",
         "contentHash": "2815a02fa1bec1a4ffaf05b7724c20062b133e07"
     },
     "5195": {
-        "gameName": "Worlds Hardest Game 4",
-        "gameParts": 1,
-        "gameSystem": "Adobe Flash",
+        "title": "Worlds Hardest Game 4",
+        "parts": 1,
+        "system": "Adobe Flash",
         "contentHash": "021956aaaa5e62aa47413256b309b4c01fa2b33b"
     },
     "1756": {
-        "gameName": "Among Us",
-        "gameParts": 1,
-        "gameSystem": "Construct",
+        "title": "Among Us",
+        "parts": 1,
+        "system": "Construct",
         "contentHash": "6918a9cc16b3db3166992c2ce04cdacc08dc7cfc"
     },
     "2944": {
-        "gameName": "Basket Random",
-        "gameParts": 1,
-        "gameSystem": "Construct",
+        "title": "Basket Random",
+        "parts": 1,
+        "system": "Construct",
         "contentHash": "fe671fc8ef73ff3a73f1b880daa4772486007e1a"
     },
     "1496": {
-        "gameName": "Big Flappy Tower Tiny Square",
-        "gameParts": 1,
-        "gameSystem": "Construct",
+        "title": "Big Flappy Tower Tiny Square",
+        "parts": 1,
+        "system": "Construct",
         "contentHash": "a3894e33cbaf6b2f1f514adcdae2c75029047c3a"
     },
     "9527": {
-        "gameName": "Big Ice Tower Tiny Square",
-        "gameParts": 1,
-        "gameSystem": "Construct",
+        "title": "Big Ice Tower Tiny Square",
+        "parts": 1,
+        "system": "Construct",
         "contentHash": "cfff3ad6e1b02ed3ca95ff8d11306169f672c98e"
     },
     "2656": {
-        "gameName": "Big Neon Tower Tiny Square",
-        "gameParts": 1,
-        "gameSystem": "Construct",
+        "title": "Big Neon Tower Tiny Square",
+        "parts": 1,
+        "system": "Construct",
         "contentHash": "30fd16829056f5f6b4dff5cf550683b069d7202a"
     },
     "6565": {
-        "gameName": "Big Tower Tiny Square",
-        "gameParts": 1,
-        "gameSystem": "Construct",
+        "title": "Big Tower Tiny Square",
+        "parts": 1,
+        "system": "Construct",
         "contentHash": "6b966a552a03f4cfefed9f4500cbff2940726037"
     },
     "5311": {
-        "gameName": "Big Tower Tiny Square 2",
-        "gameParts": 1,
-        "gameSystem": "Construct",
+        "title": "Big Tower Tiny Square 2",
+        "parts": 1,
+        "system": "Construct",
         "contentHash": "31035c06a124a7235e6187b8189f2d391c21b94a"
     },
     "5536": {
-        "gameName": "Boxing Random",
-        "gameParts": 1,
-        "gameSystem": "Construct",
+        "title": "Boxing Random",
+        "parts": 1,
+        "system": "Construct",
         "contentHash": "d8b8d4fcf190366ee99bb5c2511f98f83288af7a"
     },
     "4047": {
-        "gameName": "Eggy Car",
-        "gameParts": 1,
-        "gameSystem": "Construct",
+        "title": "Eggy Car",
+        "parts": 1,
+        "system": "Construct",
         "contentHash": "86dc5ab86d834e3ec97a4fa6c51dd9339764dcff"
     },
     "2336": {
-        "gameName": "Knightin'",
-        "gameParts": 1,
-        "gameSystem": "Construct",
+        "title": "Knightin'",
+        "parts": 1,
+        "system": "Construct",
         "contentHash": "da776a2f06bde897e7c2bf996161da776d354d7f"
     },
     "8703": {
-        "gameName": "OvO",
-        "gameParts": 2,
-        "gameSystem": "Construct",
+        "title": "OvO",
+        "parts": 2,
+        "system": "Construct",
         "contentHash": "83e1e33fe3e40a879ae5d3878acec54fea27e7f9"
     },
     "1633": {
-        "gameName": "OvO 2",
-        "gameParts": 1,
-        "gameSystem": "Construct",
+        "title": "OvO 2",
+        "parts": 1,
+        "system": "Construct",
         "contentHash": "d5ab0d61c3a5f434fbf4488bf4a45029ff689299"
     },
     "8375": {
-        "gameName": "Pocket Golf",
-        "gameParts": 1,
-        "gameSystem": "Construct",
+        "title": "Pocket Golf",
+        "parts": 1,
+        "system": "Construct",
         "contentHash": "a4be5c05378613c28b934f8dba4e9f4f855420c5"
     },
     "5640": {
-        "gameName": "Soccer Random",
-        "gameParts": 1,
-        "gameSystem": "Construct",
+        "title": "Soccer Random",
+        "parts": 1,
+        "system": "Construct",
         "contentHash": "dcf779617c18edaa5a6d6ffaada36e4259baae53"
     },
     "1486": {
-        "gameName": "Tag",
-        "gameParts": 1,
-        "gameSystem": "Construct",
+        "title": "Tag",
+        "parts": 1,
+        "system": "Construct",
         "contentHash": "ec14682e6cf0a025dd89f89a5b038346c21c4649"
     },
     "7512": {
-        "gameName": "Volley Random",
-        "gameParts": 1,
-        "gameSystem": "Construct",
+        "title": "Volley Random",
+        "parts": 1,
+        "system": "Construct",
         "contentHash": "4912e48f9fc31f0576ed6e4afb3377e440cba0c3"
     },
     "7845": {
-        "gameName": "Idle Breakout",
-        "gameParts": 1,
-        "gameSystem": "GameMaker Studio",
+        "title": "Idle Breakout",
+        "parts": 1,
+        "system": "GameMaker Studio",
         "contentHash": "7de7b0057e5790e0045be4f3db0b45929ef2852b"
     },
     "3181": {
-        "gameName": "Last Horizon",
-        "gameParts": 1,
-        "gameSystem": "GameMaker Studio",
+        "title": "Last Horizon",
+        "parts": 1,
+        "system": "GameMaker Studio",
         "contentHash": "69c94242e0992fde8aa5f47434ab40c91fcbd132"
     },
     "0193": {
-        "gameName": "Retro Bowl",
-        "gameParts": 1,
-        "gameSystem": "GameMaker Studio",
+        "title": "Retro Bowl",
+        "parts": 1,
+        "system": "GameMaker Studio",
         "contentHash": "a800be82cb8cfe5cd21d853b70590dfbb999515e"
     },
     "7610": {
-        "gameName": "2048",
-        "gameParts": 1,
-        "gameSystem": "HTML5",
+        "title": "2048",
+        "parts": 1,
+        "system": "HTML5",
         "contentHash": "73ab42272033af5fd14f1e1b45d4ec3b2cad2288"
     },
     "4481": {
-        "gameName": "Basket & Ball",
-        "gameParts": 1,
-        "gameSystem": "HTML5",
+        "title": "Basket & Ball",
+        "parts": 1,
+        "system": "HTML5",
         "contentHash": "4ecc3a43d49a1c8ff48883ddc81d966a973ee465"
     },
     "3922": {
-        "gameName": "Battlecoast",
-        "gameParts": 1,
-        "gameSystem": "HTML5",
+        "title": "Battlecoast",
+        "parts": 1,
+        "system": "HTML5",
         "contentHash": "b17100aab3d6e4ca59fc68b167ccdcde97789bdd"
     },
     "6070": {
-        "gameName": "Cookie Clicker",
-        "gameParts": 1,
-        "gameSystem": "HTML5",
+        "title": "Cookie Clicker",
+        "parts": 1,
+        "system": "HTML5",
         "contentHash": "c38c22b6e4ba3e9ecdf8f9169a1510c0c9fe20e3"
     },
     "6111": {
-        "gameName": "CoreBall",
-        "gameParts": 1,
-        "gameSystem": "HTML5",
+        "title": "CoreBall",
+        "parts": 1,
+        "system": "HTML5",
         "contentHash": "126406279777244711dc9963b2affcf4998ef04c"
     },
     "9008": {
-        "gameName": "Drift Boss",
-        "gameParts": 1,
-        "gameSystem": "HTML5",
+        "title": "Drift Boss",
+        "parts": 1,
+        "system": "HTML5",
         "contentHash": "2335d5aa2c16c7dc523c3ac04b7f6677c3ea8b7e"
     },
     "4693": {
-        "gameName": "Flappy 2048",
-        "gameParts": 1,
-        "gameSystem": "HTML5",
+        "title": "Flappy 2048",
+        "parts": 1,
+        "system": "HTML5",
         "contentHash": "83e111f638ad4c82b72482d1ec75477243cc1543"
     },
     "8530": {
-        "gameName": "Flappy Bird",
-        "gameParts": 1,
-        "gameSystem": "HTML5",
+        "title": "Flappy Bird",
+        "parts": 1,
+        "system": "HTML5",
         "contentHash": "045c3fc121818c4536e383bc278bb1e08897e50e"
     },
     "0490": {
-        "gameName": "Geometry Dash Lite",
-        "gameParts": 16,
-        "gameSystem": "HTML5",
+        "title": "Geometry Dash Lite",
+        "parts": 16,
+        "system": "HTML5",
         "contentHash": "25403cc55d8d962a237d2be75489a6fb2eb78bf7"
     },
     "6156": {
-        "gameName": "HexGL",
-        "gameParts": 2,
-        "gameSystem": "HTML5",
+        "title": "HexGL",
+        "parts": 2,
+        "system": "HTML5",
         "contentHash": "d118e60616af4790803b4b4cbf2a1b4be01018f9"
     },
     "6630": {
-        "gameName": "Hextris",
-        "gameParts": 1,
-        "gameSystem": "HTML5",
+        "title": "Hextris",
+        "parts": 1,
+        "system": "HTML5",
         "contentHash": "2772caf7e0db8b27a157c52c55095b7fd24f2299"
     },
     "3570": {
-        "gameName": "Jelly Truck",
-        "gameParts": 2,
-        "gameSystem": "HTML5",
+        "title": "Jelly Truck",
+        "parts": 2,
+        "system": "HTML5",
         "contentHash": "00b410e88300e1cb585eff200ef282112a99b8b8"
     },
     "4727": {
-        "gameName": "Little Alchemy 2",
-        "gameParts": 1,
-        "gameSystem": "HTML5",
+        "title": "Little Alchemy 2",
+        "parts": 1,
+        "system": "HTML5",
         "contentHash": "f760e029a5d7cd2c0bfdc7c3d01c547c13404874"
     },
     "7660": {
-        "gameName": "Minecraft 1.12.2",
-        "gameParts": 2,
-        "gameSystem": "HTML5",
+        "title": "Minecraft 1.12.2",
+        "parts": 2,
+        "system": "HTML5",
         "contentHash": "ffbd5bd15ea761d2e50378a81378640c1d25134a"
     },
     "8678": {
-        "gameName": "Minecraft 1.5.2",
-        "gameParts": 2,
-        "gameSystem": "HTML5",
+        "title": "Minecraft 1.5.2",
+        "parts": 2,
+        "system": "HTML5",
         "contentHash": "0fdc536138b9c197cda211d965509cc179e6a4ad"
     },
     "8490": {
-        "gameName": "Minecraft 1.8.8",
-        "gameParts": 1,
-        "gameSystem": "HTML5",
+        "title": "Minecraft 1.8.8",
+        "parts": 1,
+        "system": "HTML5",
         "contentHash": "cfab737717bb92b2ec4a839d366f833a527c4641"
     },
     "3340": {
-        "gameName": "Particle Clicker",
-        "gameParts": 1,
-        "gameSystem": "HTML5",
+        "title": "Particle Clicker",
+        "parts": 1,
+        "system": "HTML5",
         "contentHash": "d1361e8253a44e61959baa779677fa2cb8967995"
     },
     "4144": {
-        "gameName": "Stack",
-        "gameParts": 1,
-        "gameSystem": "HTML5",
+        "title": "Stack",
+        "parts": 1,
+        "system": "HTML5",
         "contentHash": "599e7da9c7a5853e8b9f3402fd2f15a276e0bb29"
     },
     "9470": {
-        "gameName": "Tetris",
-        "gameParts": 1,
-        "gameSystem": "HTML5",
+        "title": "Tetris",
+        "parts": 1,
+        "system": "HTML5",
         "contentHash": "a5b4d530752e97310aa9ceb57f385d0bfa3fe4e0"
     },
     "0294": {
-        "gameName": "Tiny Fishing",
-        "gameParts": 1,
-        "gameSystem": "HTML5",
-        "contentHash": "37bad8d5ec10823bc1614938ae5141f85224df35"
+        "title": "Tiny Fishing",
+        "parts": 1,
+        "system": "HTML5",
+        "contentHash": "0aebe61ab1ec6d7fe87c8d88a762bbbbabd661f3"
     },
     "6265": {
-        "gameName": "Toy Defense",
-        "gameParts": 3,
-        "gameSystem": "HTML5",
+        "title": "Toy Defense",
+        "parts": 3,
+        "system": "HTML5",
         "contentHash": "9ef684c23f1703dec81872517d8bf128acb0be7f"
     },
     "8526": {
-        "gameName": "Basketball Stars",
-        "gameParts": 1,
-        "gameSystem": "PhaserJS",
+        "title": "Basketball Stars",
+        "parts": 1,
+        "system": "PhaserJS",
         "contentHash": "e667cb9d157b5b0b9b544f7e55e311344d8610a7"
     },
     "7668": {
-        "gameName": "Bob The Robber",
-        "gameParts": 1,
-        "gameSystem": "PhaserJS",
+        "title": "Bob The Robber",
+        "parts": 1,
+        "system": "PhaserJS",
         "contentHash": "d835ea456da6d685c1f11e0dcb602e44aad3a30e"
     },
     "3481": {
-        "gameName": "Bob The Robber 2",
-        "gameParts": 1,
-        "gameSystem": "PhaserJS",
+        "title": "Bob The Robber 2",
+        "parts": 1,
+        "system": "PhaserJS",
         "contentHash": "21515f7d65bbf3a5b3484e12b885b1d89621bc32"
     },
     "3864": {
-        "gameName": "Bob The Robber 3",
-        "gameParts": 1,
-        "gameSystem": "PhaserJS",
+        "title": "Bob The Robber 3",
+        "parts": 1,
+        "system": "PhaserJS",
         "contentHash": "1628f47c6887ebaf9a0222cf4aa5e49e14b4225a"
     },
     "0191": {
-        "gameName": "Bob The Robber 5 Temple Adventure",
-        "gameParts": 2,
-        "gameSystem": "PhaserJS",
+        "title": "Bob The Robber 5 Temple Adventure",
+        "parts": 2,
+        "system": "PhaserJS",
         "contentHash": "843ed56929c9e81e96e5e9cec16b6b5ff7cd08c3"
     },
     "9138": {
-        "gameName": "Moto X3M",
-        "gameParts": 1,
-        "gameSystem": "PhaserJS",
+        "title": "Moto X3M",
+        "parts": 1,
+        "system": "PhaserJS",
         "contentHash": "40c382b748e1a7b0d5cb4dffc147d7e23452a237"
     },
     "7299": {
-        "gameName": "Moto X3M 2",
-        "gameParts": 1,
-        "gameSystem": "PhaserJS",
+        "title": "Moto X3M 2",
+        "parts": 1,
+        "system": "PhaserJS",
         "contentHash": "27262a66fb0408b9a14b3999771eea218f127f5d"
     },
     "4737": {
-        "gameName": "Moto X3M Pool Party",
-        "gameParts": 1,
-        "gameSystem": "PhaserJS",
+        "title": "Moto X3M Pool Party",
+        "parts": 1,
+        "system": "PhaserJS",
         "contentHash": "1caa6c4aebe19df66a2921d79af488da74b4e6bd"
     },
     "9087": {
-        "gameName": "Moto X3M Spooky Land",
-        "gameParts": 1,
-        "gameSystem": "PhaserJS",
+        "title": "Moto X3M Spooky Land",
+        "parts": 1,
+        "system": "PhaserJS",
         "contentHash": "e4c806703c51f7fd9f353230d2711a599ff3b12d"
     },
     "5795": {
-        "gameName": "Moto X3M Winter",
-        "gameParts": 1,
-        "gameSystem": "PhaserJS",
+        "title": "Moto X3M Winter",
+        "parts": 1,
+        "system": "PhaserJS",
         "contentHash": "f1e29f9308545cfdf3f8ab1f01cbbe77b5b08df8"
     },
     "1599": {
-        "gameName": "Vex 3",
-        "gameParts": 1,
-        "gameSystem": "PhaserJS",
+        "title": "Vex 3",
+        "parts": 1,
+        "system": "PhaserJS",
         "contentHash": "e87fd2019ad2860c1614c3d4f8e9f3e43c487c20"
     },
     "7970": {
-        "gameName": "Vex 3 Xmas",
-        "gameParts": 1,
-        "gameSystem": "PhaserJS",
+        "title": "Vex 3 Xmas",
+        "parts": 1,
+        "system": "PhaserJS",
         "contentHash": "2827488de699587a12edc2ac0d49b1812874cae3"
     },
     "1843": {
-        "gameName": "Vex 4",
-        "gameParts": 1,
-        "gameSystem": "PhaserJS",
+        "title": "Vex 4",
+        "parts": 1,
+        "system": "PhaserJS",
         "contentHash": "d8a599ecd77edf1cff774cf3ec74aeb0e0fc95fc"
     },
     "0980": {
-        "gameName": "Vex 5",
-        "gameParts": 1,
-        "gameSystem": "PhaserJS",
+        "title": "Vex 5",
+        "parts": 1,
+        "system": "PhaserJS",
         "contentHash": "ac8326f1a7461268e1eebd6c5a8711d3bd178b0a"
     },
     "6093": {
-        "gameName": "Vex 6",
-        "gameParts": 1,
-        "gameSystem": "PhaserJS",
+        "title": "Vex 6",
+        "parts": 1,
+        "system": "PhaserJS",
         "contentHash": "56f41cd16a6ca4ba47a12a1467ff2cd2174afb81"
     },
     "6868": {
-        "gameName": "Vex 7",
-        "gameParts": 2,
-        "gameSystem": "PhaserJS",
+        "title": "Vex 7",
+        "parts": 2,
+        "system": "PhaserJS",
         "contentHash": "a70691232e9993cba3ea4e0d2bc76942c2b20151"
     },
     "3970": {
-        "gameName": "Vex 8",
-        "gameParts": 2,
-        "gameSystem": "PhaserJS",
+        "title": "Vex 8",
+        "parts": 2,
+        "system": "PhaserJS",
         "contentHash": "dda441a7469ff4033219dd5c849ef828661b2791"
     },
     "8133": {
-        "gameName": "Vex Challenges",
-        "gameParts": 2,
-        "gameSystem": "PhaserJS",
+        "title": "Vex Challenges",
+        "parts": 2,
+        "system": "PhaserJS",
         "contentHash": "c41b6678f4fd00dfb9e7ab410dbcd7b270f467ac"
     },
     "6754": {
-        "gameName": "Vex X3M",
-        "gameParts": 1,
-        "gameSystem": "PhaserJS",
+        "title": "Vex X3M",
+        "parts": 1,
+        "system": "PhaserJS",
         "contentHash": "ae2174c507ec52359eee0729743a945b6d558f2e"
     },
     "0653": {
-        "gameName": "Vex X3M 2",
-        "gameParts": 1,
-        "gameSystem": "PhaserJS",
+        "title": "Vex X3M 2",
+        "parts": 1,
+        "system": "PhaserJS",
         "contentHash": "60d29fa7f57d829c972b85ec4bd7d4481bb07b6a"
     },
     "7824": {
-        "gameName": "007 - GoldenEye",
-        "gameParts": 1,
-        "gameSystem": "Nintendo 64",
+        "title": "007 - GoldenEye",
+        "parts": 1,
+        "system": "Nintendo 64",
         "contentHash": "c92d211a2d48efe07ec0e7e10d944a9b4f9680b0"
     },
     "6379": {
-        "gameName": "007 - The World Is Not Enough",
-        "gameParts": 2,
-        "gameSystem": "Nintendo 64",
+        "title": "007 - The World Is Not Enough",
+        "parts": 2,
+        "system": "Nintendo 64",
         "contentHash": "db5371ae7fd9951bf5eb934ad0a5df113b51487d"
     },
     "5492": {
-        "gameName": "Diddy Kong Racing",
-        "gameParts": 1,
-        "gameSystem": "Nintendo 64",
+        "title": "Diddy Kong Racing",
+        "parts": 1,
+        "system": "Nintendo 64",
         "contentHash": "2fde3da2b9ca68d72744df446998db5ca7b3cd2f"
     },
     "9838": {
-        "gameName": "Donkey Kong 64",
-        "gameParts": 2,
-        "gameSystem": "Nintendo 64",
+        "title": "Donkey Kong 64",
+        "parts": 2,
+        "system": "Nintendo 64",
         "contentHash": "9e1619bc601ee8bb3b8a97b59aef19ed686bfbf4"
     },
     "6454": {
-        "gameName": "Dr. Mario 64",
-        "gameParts": 1,
-        "gameSystem": "Nintendo 64",
+        "title": "Dr. Mario 64",
+        "parts": 1,
+        "system": "Nintendo 64",
         "contentHash": "924b2424c876a8866a998f3de6c55c823b577671"
     },
     "3963": {
-        "gameName": "Mario Golf",
-        "gameParts": 2,
-        "gameSystem": "Nintendo 64",
+        "title": "Mario Golf",
+        "parts": 2,
+        "system": "Nintendo 64",
         "contentHash": "e829933fd16d2c7465a2ed93ff92ad5713b574a4"
     },
     "2704": {
-        "gameName": "Mario Kart 64",
-        "gameParts": 1,
-        "gameSystem": "Nintendo 64",
+        "title": "Mario Kart 64",
+        "parts": 1,
+        "system": "Nintendo 64",
         "contentHash": "7f824d6c9b3322ec93087d530696ef82c14d02d9"
     },
     "7634": {
-        "gameName": "Mario Party 1",
-        "gameParts": 2,
-        "gameSystem": "Nintendo 64",
+        "title": "Mario Party 1",
+        "parts": 2,
+        "system": "Nintendo 64",
         "contentHash": "d7f6d9517d7b3cf108a9703c01ca5e4e9642f50f"
     },
     "8443": {
-        "gameName": "Mario Party 2",
-        "gameParts": 2,
-        "gameSystem": "Nintendo 64",
+        "title": "Mario Party 2",
+        "parts": 2,
+        "system": "Nintendo 64",
         "contentHash": "2fff62ef7fb6983c0cfdb085b65f2d369d978ead"
     },
     "7531": {
-        "gameName": "Mario Party 3",
-        "gameParts": 2,
-        "gameSystem": "Nintendo 64",
+        "title": "Mario Party 3",
+        "parts": 2,
+        "system": "Nintendo 64",
         "contentHash": "64c2848c97dfcb65e22e1e62f4d96d7324fc37e3"
     },
     "7735": {
-        "gameName": "Mario Tennis",
-        "gameParts": 1,
-        "gameSystem": "Nintendo 64",
+        "title": "Mario Tennis",
+        "parts": 1,
+        "system": "Nintendo 64",
         "contentHash": "ab0768c7bfd8f10005db0f577975271f06986023"
     },
     "1879": {
-        "gameName": "Mega Man 64",
-        "gameParts": 2,
-        "gameSystem": "Nintendo 64",
+        "title": "Mega Man 64",
+        "parts": 2,
+        "system": "Nintendo 64",
         "contentHash": "ab9bdc516f3b1c864672e39949a4e2cde2d5f1fb"
     },
     "8517": {
-        "gameName": "Paper Mario",
-        "gameParts": 3,
-        "gameSystem": "Nintendo 64",
+        "title": "Paper Mario",
+        "parts": 3,
+        "system": "Nintendo 64",
         "contentHash": "ebb14838e10c4d9300d51090ae5f95c2de9b8474"
     },
     "3460": {
-        "gameName": "Spider-Man",
-        "gameParts": 2,
-        "gameSystem": "Nintendo 64",
+        "title": "Spider-Man",
+        "parts": 2,
+        "system": "Nintendo 64",
         "contentHash": "8e069b609b4af82e5a570a28d4b16699f5a243b8"
     },
     "4384": {
-        "gameName": "Star Fox 64",
-        "gameParts": 1,
-        "gameSystem": "Nintendo 64",
+        "title": "Star Fox 64",
+        "parts": 1,
+        "system": "Nintendo 64",
         "contentHash": "45f0122fba002c0fc87ecbc9fa9d4e6ba386428e"
     },
     "2220": {
-        "gameName": "Super Mario 64",
-        "gameParts": 1,
-        "gameSystem": "Nintendo 64",
+        "title": "Super Mario 64",
+        "parts": 1,
+        "system": "Nintendo 64",
         "contentHash": "978afb43eef389ae7a5c38d22eece4ec28e9f4d8"
     },
     "3182": {
-        "gameName": "Super Smash Bros",
-        "gameParts": 1,
-        "gameSystem": "Nintendo 64",
+        "title": "Super Smash Bros",
+        "parts": 1,
+        "system": "Nintendo 64",
         "contentHash": "98fce901c3343c756abea1a6d0a9f530bc38b93f"
     },
     "0787": {
-        "gameName": "The Legend of Zelda - Majora's Mask",
-        "gameParts": 2,
-        "gameSystem": "Nintendo 64",
+        "title": "The Legend of Zelda - Majora's Mask",
+        "parts": 2,
+        "system": "Nintendo 64",
         "contentHash": "32db0c26d0b2343776f48c2a4b4e1283d72beaa5"
     },
     "6167": {
-        "gameName": "The Legend of Zelda - Ocarina of Time",
-        "gameParts": 2,
-        "gameSystem": "Nintendo 64",
+        "title": "The Legend of Zelda - Ocarina of Time",
+        "parts": 2,
+        "system": "Nintendo 64",
         "contentHash": "e5b11446c38d91c71d54bd5c8feb3541c862dcf1"
     },
     "4684": {
-        "gameName": "Yoshi's Story",
-        "gameParts": 1,
-        "gameSystem": "Nintendo 64",
+        "title": "Yoshi's Story",
+        "parts": 1,
+        "system": "Nintendo 64",
         "contentHash": "15bcc85e2915cb7231bba3b179192e8d96f3d798"
     },
     "1048": {
-        "gameName": "Cars 1",
-        "gameParts": 1,
-        "gameSystem": "Nintendo DS",
+        "title": "Cars 1",
+        "parts": 1,
+        "system": "Nintendo DS",
         "contentHash": "9b5638264166d93f740011829e7b296572893c06"
     },
     "4215": {
-        "gameName": "Cars 2",
-        "gameParts": 4,
-        "gameSystem": "Nintendo DS",
+        "title": "Cars 2",
+        "parts": 4,
+        "system": "Nintendo DS",
         "contentHash": "8597cae98aac4b5e7cf0c3e4321c4df5f8f62484"
     },
     "7687": {
-        "gameName": "Donkey Kong - Jungle Climber",
-        "gameParts": 4,
-        "gameSystem": "Nintendo DS",
+        "title": "Donkey Kong - Jungle Climber",
+        "parts": 4,
+        "system": "Nintendo DS",
         "contentHash": "b9305b6f8fe90d10e83880f01142f08b4777a921"
     },
     "3402": {
-        "gameName": "LEGO Star Wars - The Complete Saga",
-        "gameParts": 4,
-        "gameSystem": "Nintendo DS",
+        "title": "LEGO Star Wars - The Complete Saga",
+        "parts": 4,
+        "system": "Nintendo DS",
         "contentHash": "8f26a47993353f32dd9272606f7797794d937235"
     },
     "0120": {
-        "gameName": "Mario & Luigi - Bowser's Inside Story",
-        "gameParts": 7,
-        "gameSystem": "Nintendo DS",
+        "title": "Mario & Luigi - Bowser's Inside Story",
+        "parts": 7,
+        "system": "Nintendo DS",
         "contentHash": "e1fdf8cf621cc0e8e19e86aa92d3c3a5c071b5f2"
     },
     "7341": {
-        "gameName": "Mario & Luigi - Partners in Time",
-        "gameParts": 4,
-        "gameSystem": "Nintendo DS",
+        "title": "Mario & Luigi - Partners in Time",
+        "parts": 4,
+        "system": "Nintendo DS",
         "contentHash": "ffd59c053ead6b6c5a4a6d9367dc676a57abbe27"
     },
     "3544": {
-        "gameName": "Mario & Sonic at the Olympic Games",
-        "gameParts": 7,
-        "gameSystem": "Nintendo DS",
+        "title": "Mario & Sonic at the Olympic Games",
+        "parts": 7,
+        "system": "Nintendo DS",
         "contentHash": "20118810a9ef526b8e634e21b9331bbaf31943c3"
     },
     "8332": {
-        "gameName": "Mario & Sonic at the Olympic Winter Games",
-        "gameParts": 7,
-        "gameSystem": "Nintendo DS",
+        "title": "Mario & Sonic at the Olympic Winter Games",
+        "parts": 7,
+        "system": "Nintendo DS",
         "contentHash": "a1934881e1e1b68f0dc11f6fd12225a7c0cbdd26"
     },
     "8841": {
-        "gameName": "Mario Hoops 3 on 3",
-        "gameParts": 4,
-        "gameSystem": "Nintendo DS",
+        "title": "Mario Hoops 3 on 3",
+        "parts": 4,
+        "system": "Nintendo DS",
         "contentHash": "ec604b6bfd946163cd3d209c1f796a47d0c04bfd"
     },
     "2429": {
-        "gameName": "Mario Kart DS",
-        "gameParts": 2,
-        "gameSystem": "Nintendo DS",
+        "title": "Mario Kart DS",
+        "parts": 2,
+        "system": "Nintendo DS",
         "contentHash": "ebbaf1f7d06a1aca99d1798d7c50525c8f84d618"
     },
     "8656": {
-        "gameName": "Mario Party DS",
-        "gameParts": 2,
-        "gameSystem": "Nintendo DS",
+        "title": "Mario Party DS",
+        "parts": 2,
+        "system": "Nintendo DS",
         "contentHash": "4af6802b94f02925d87f32c213ea0a6057c3ec83"
     },
     "2210": {
-        "gameName": "Mario Vs Donkey Kong 2 - March of the Minis",
-        "gameParts": 4,
-        "gameSystem": "Nintendo DS",
+        "title": "Mario Vs Donkey Kong 2 - March of the Minis",
+        "parts": 4,
+        "system": "Nintendo DS",
         "contentHash": "122db23799b20cc81c3855cf19bad5eda1591d97"
     },
     "1218": {
-        "gameName": "Mario vs. Donkey Kong 3 - Mini-Land Mayhem!",
-        "gameParts": 2,
-        "gameSystem": "Nintendo DS",
+        "title": "Mario vs. Donkey Kong 3 - Mini-Land Mayhem!",
+        "parts": 2,
+        "system": "Nintendo DS",
         "contentHash": "9f5f9cc2204fbb3983c542aeaa9a2a48ca4e27c1"
     },
     "7728": {
-        "gameName": "New Super Mario Bros",
-        "gameParts": 2,
-        "gameSystem": "Nintendo DS",
+        "title": "New Super Mario Bros",
+        "parts": 2,
+        "system": "Nintendo DS",
         "contentHash": "94d416b72af2a77114d57eb9717dd6af868cb672"
     },
     "7685": {
-        "gameName": "Plants vs. Zombies",
-        "gameParts": 4,
-        "gameSystem": "Nintendo DS",
+        "title": "Plants vs. Zombies",
+        "parts": 4,
+        "system": "Nintendo DS",
         "contentHash": "a2168c807cd936342ed0710022d6ad185b266a28"
     },
     "8071": {
-        "gameName": "Sonic Classic Collection",
-        "gameParts": 4,
-        "gameSystem": "Nintendo DS",
+        "title": "Sonic Classic Collection",
+        "parts": 4,
+        "system": "Nintendo DS",
         "contentHash": "8fa63d11ce46e6c76fc2af6e95c84674b0fd4334"
     },
     "1927": {
-        "gameName": "Donkey Kong",
-        "gameParts": 1,
-        "gameSystem": "Nintendo Entertainment System",
+        "title": "Donkey Kong",
+        "parts": 1,
+        "system": "Nintendo Entertainment System",
         "contentHash": "8012370a7a1663672689c8fd1739d35505d7c636"
     },
     "5830": {
-        "gameName": "Donkey Kong Jr",
-        "gameParts": 1,
-        "gameSystem": "Nintendo Entertainment System",
+        "title": "Donkey Kong Jr",
+        "parts": 1,
+        "system": "Nintendo Entertainment System",
         "contentHash": "d4bd878fbd74318f2bfd2d4e36c3a5fced3af294"
     },
     "4833": {
-        "gameName": "Dr. Mario",
-        "gameParts": 1,
-        "gameSystem": "Nintendo Entertainment System",
+        "title": "Dr. Mario",
+        "parts": 1,
+        "system": "Nintendo Entertainment System",
         "contentHash": "ba438ee4b8f21caee832562f6c4ad4c1fe08c188"
     },
     "6693": {
-        "gameName": "Galaga - Demons of Death",
-        "gameParts": 1,
-        "gameSystem": "Nintendo Entertainment System",
+        "title": "Galaga - Demons of Death",
+        "parts": 1,
+        "system": "Nintendo Entertainment System",
         "contentHash": "d1a1e3a01e687e04492514f535ceee05d2028d4c"
     },
     "2137": {
-        "gameName": "Mega Man 1",
-        "gameParts": 1,
-        "gameSystem": "Nintendo Entertainment System",
+        "title": "Mega Man 1",
+        "parts": 1,
+        "system": "Nintendo Entertainment System",
         "contentHash": "b07a3c044ead88169e6bc81e2ec5b9434f5f2cc6"
     },
     "1621": {
-        "gameName": "Mega Man 2",
-        "gameParts": 1,
-        "gameSystem": "Nintendo Entertainment System",
+        "title": "Mega Man 2",
+        "parts": 1,
+        "system": "Nintendo Entertainment System",
         "contentHash": "2d7d916dbfd04147abf08761d2fde143f0ca7234"
     },
     "4129": {
-        "gameName": "Mega Man 3",
-        "gameParts": 1,
-        "gameSystem": "Nintendo Entertainment System",
+        "title": "Mega Man 3",
+        "parts": 1,
+        "system": "Nintendo Entertainment System",
         "contentHash": "6bd14f90085abb1edba8be477daaa261e6af65c6"
     },
     "9302": {
-        "gameName": "Mega Man 4",
-        "gameParts": 1,
-        "gameSystem": "Nintendo Entertainment System",
+        "title": "Mega Man 4",
+        "parts": 1,
+        "system": "Nintendo Entertainment System",
         "contentHash": "1af16620527ddeb152dd81b5c879f2a1b4bd63bd"
     },
     "7849": {
-        "gameName": "Mega Man 5",
-        "gameParts": 1,
-        "gameSystem": "Nintendo Entertainment System",
+        "title": "Mega Man 5",
+        "parts": 1,
+        "system": "Nintendo Entertainment System",
         "contentHash": "b66e99cc0afc1cabd7b79f51533bbf8c1aa84dcf"
     },
     "3625": {
-        "gameName": "Mega Man 6",
-        "gameParts": 1,
-        "gameSystem": "Nintendo Entertainment System",
+        "title": "Mega Man 6",
+        "parts": 1,
+        "system": "Nintendo Entertainment System",
         "contentHash": "64398d29b110db7f1e06afb7877735e6e53317ed"
     },
     "4771": {
-        "gameName": "Metroid",
-        "gameParts": 1,
-        "gameSystem": "Nintendo Entertainment System",
+        "title": "Metroid",
+        "parts": 1,
+        "system": "Nintendo Entertainment System",
         "contentHash": "1deca4039166bc6480e5b73e82c92e47691fd6af"
     },
     "9715": {
-        "gameName": "Super Mario Bros. 1",
-        "gameParts": 1,
-        "gameSystem": "Nintendo Entertainment System",
+        "title": "Super Mario Bros. 1",
+        "parts": 1,
+        "system": "Nintendo Entertainment System",
         "contentHash": "fd5e4d4a9096aba61e823e531239a8af5cbd8492"
     },
     "3901": {
-        "gameName": "Super Mario Bros. 2",
-        "gameParts": 1,
-        "gameSystem": "Nintendo Entertainment System",
+        "title": "Super Mario Bros. 2",
+        "parts": 1,
+        "system": "Nintendo Entertainment System",
         "contentHash": "369c75dddd81b535c0ef7774845d0e1218cb568f"
     },
     "5064": {
-        "gameName": "Super Mario Bros. 3",
-        "gameParts": 1,
-        "gameSystem": "Nintendo Entertainment System",
+        "title": "Super Mario Bros. 3",
+        "parts": 1,
+        "system": "Nintendo Entertainment System",
         "contentHash": "226a6109be3a0bb86aeca2f291937f5fbb153e04"
     },
     "3203": {
-        "gameName": "Tetris",
-        "gameParts": 1,
-        "gameSystem": "Nintendo Entertainment System",
+        "title": "Tetris",
+        "parts": 1,
+        "system": "Nintendo Entertainment System",
         "contentHash": "5b767bdf626b1604893b64b55ffc5d6dc358efed"
     },
     "7464": {
-        "gameName": "VS Super Mario Bros",
-        "gameParts": 1,
-        "gameSystem": "Nintendo Entertainment System",
+        "title": "VS Super Mario Bros",
+        "parts": 1,
+        "system": "Nintendo Entertainment System",
         "contentHash": "5e2372d77fef43f9789f1efca6b132f93563a227"
     },
     "3242": {
-        "gameName": "Zelda 1 - The Legend of Zelda",
-        "gameParts": 1,
-        "gameSystem": "Nintendo Entertainment System",
+        "title": "Zelda 1 - The Legend of Zelda",
+        "parts": 1,
+        "system": "Nintendo Entertainment System",
         "contentHash": "3fe037d000cc1397026f87dc321b0544aa9ac1f5"
     },
     "2535": {
-        "gameName": "Zelda 2 - The Adventure of Link",
-        "gameParts": 1,
-        "gameSystem": "Nintendo Entertainment System",
+        "title": "Zelda 2 - The Adventure of Link",
+        "parts": 1,
+        "system": "Nintendo Entertainment System",
         "contentHash": "7a11e2474218efba536a3d15e1ca181ecee99fe8"
     },
     "2696": {
-        "gameName": "Donkey Kong Land",
-        "gameParts": 1,
-        "gameSystem": "Nintendo Game Boy",
+        "title": "Donkey Kong Land",
+        "parts": 1,
+        "system": "Nintendo Game Boy",
         "contentHash": "1776712a963efb86f529d0321023469be63aecae"
     },
     "9241": {
-        "gameName": "Donkey Kong Land 2",
-        "gameParts": 1,
-        "gameSystem": "Nintendo Game Boy",
+        "title": "Donkey Kong Land 2",
+        "parts": 1,
+        "system": "Nintendo Game Boy",
         "contentHash": "a1f88c74e6d30d93b712d9974dbbb361df279333"
     },
     "8797": {
-        "gameName": "Donkey Kong Land 3",
-        "gameParts": 1,
-        "gameSystem": "Nintendo Game Boy",
+        "title": "Donkey Kong Land 3",
+        "parts": 1,
+        "system": "Nintendo Game Boy",
         "contentHash": "9abf3497362a9edbea77a19b5f71d8098e971b11"
     },
     "5359": {
-        "gameName": "Space Invaders",
-        "gameParts": 1,
-        "gameSystem": "Nintendo Game Boy",
+        "title": "Space Invaders",
+        "parts": 1,
+        "system": "Nintendo Game Boy",
         "contentHash": "9a898e2e0576f5d74ba813c972662dcd4054452d"
     },
     "1662": {
-        "gameName": "Super Mario Land",
-        "gameParts": 1,
-        "gameSystem": "Nintendo Game Boy",
+        "title": "Super Mario Land",
+        "parts": 1,
+        "system": "Nintendo Game Boy",
         "contentHash": "7d1c11cd527e3bc2a38e262d564309e8396c334a"
     },
     "2609": {
-        "gameName": "Super Mario Land 2 - 6 Golden Coins",
-        "gameParts": 1,
-        "gameSystem": "Nintendo Game Boy",
+        "title": "Super Mario Land 2 - 6 Golden Coins",
+        "parts": 1,
+        "system": "Nintendo Game Boy",
         "contentHash": "06ab03370686a64d8ee05e03763483c4b7ec56cd"
     },
     "5624": {
-        "gameName": "Super Mario Land 3 - Wario Land",
-        "gameParts": 1,
-        "gameSystem": "Nintendo Game Boy",
+        "title": "Super Mario Land 3 - Wario Land",
+        "parts": 1,
+        "system": "Nintendo Game Boy",
         "contentHash": "62524b9f7dcaf4da8df87d30cd6bbf1260f1d033"
     },
     "4452": {
-        "gameName": "Donkey Kong - King of Swing GBA",
-        "gameParts": 1,
-        "gameSystem": "Nintendo Game Boy Advance",
+        "title": "Donkey Kong - King of Swing GBA",
+        "parts": 1,
+        "system": "Nintendo Game Boy Advance",
         "contentHash": "da81fcf573f3c001e4dba302a040aa15ed4a506d"
     },
     "2097": {
-        "gameName": "Kirby & The Amazing Mirror",
-        "gameParts": 1,
-        "gameSystem": "Nintendo Game Boy Advance",
+        "title": "Kirby & The Amazing Mirror",
+        "parts": 1,
+        "system": "Nintendo Game Boy Advance",
         "contentHash": "0d05fe56ceb8c04c567cf0a9d843c4b3b8eaf3d3"
     },
     "4810": {
-        "gameName": "Kirby - Nightmare in Dreamland",
-        "gameParts": 1,
-        "gameSystem": "Nintendo Game Boy Advance",
+        "title": "Kirby - Nightmare in Dreamland",
+        "parts": 1,
+        "system": "Nintendo Game Boy Advance",
         "contentHash": "b2e2aaa6d18cff3a9c763a08808c7117c11c3a8a"
     },
     "9725": {
-        "gameName": "Mario & Luigi - Superstar Saga",
-        "gameParts": 1,
-        "gameSystem": "Nintendo Game Boy Advance",
+        "title": "Mario & Luigi - Superstar Saga",
+        "parts": 1,
+        "system": "Nintendo Game Boy Advance",
         "contentHash": "8803d916adf023927f859f94e0748e11fe19a582"
     },
     "6770": {
-        "gameName": "Mario Kart Super Circuit",
-        "gameParts": 1,
-        "gameSystem": "Nintendo Game Boy Advance",
+        "title": "Mario Kart Super Circuit",
+        "parts": 1,
+        "system": "Nintendo Game Boy Advance",
         "contentHash": "94b5de291670fbc8cbc9bc00ef06fbacf278bf1d"
     },
     "6885": {
-        "gameName": "Mario Tennis - Power Tour",
-        "gameParts": 1,
-        "gameSystem": "Nintendo Game Boy Advance",
+        "title": "Mario Tennis - Power Tour",
+        "parts": 1,
+        "system": "Nintendo Game Boy Advance",
         "contentHash": "a891a5a275c86955f0b32de389cfb38aa138010b"
     },
     "8088": {
-        "gameName": "Mario vs. Donkey Kong",
-        "gameParts": 1,
-        "gameSystem": "Nintendo Game Boy Advance",
+        "title": "Mario vs. Donkey Kong",
+        "parts": 1,
+        "system": "Nintendo Game Boy Advance",
         "contentHash": "4d1bf3d9a524e8b273e7be133c1d0dbac24ea5f5"
     },
     "0558": {
-        "gameName": "The Legend of Zelda - A Link To The Past Four Swords",
-        "gameParts": 1,
-        "gameSystem": "Nintendo Game Boy Advance",
+        "title": "The Legend of Zelda - A Link To The Past Four Swords",
+        "parts": 1,
+        "system": "Nintendo Game Boy Advance",
         "contentHash": "f537c5caf6f534c796f63fac9c8d9dc1edc5b9f3"
     },
     "2664": {
-        "gameName": "The Legend of Zelda - The Minish Cap",
-        "gameParts": 1,
-        "gameSystem": "Nintendo Game Boy Advance",
+        "title": "The Legend of Zelda - The Minish Cap",
+        "parts": 1,
+        "system": "Nintendo Game Boy Advance",
         "contentHash": "0cca5913841b0d97e7c036e3d293fc62a6e2e523"
     },
     "9304": {
-        "gameName": "Wario Land 4",
-        "gameParts": 1,
-        "gameSystem": "Nintendo Game Boy Advance",
+        "title": "Wario Land 4",
+        "parts": 1,
+        "system": "Nintendo Game Boy Advance",
         "contentHash": "5e9811acc226a68f4e066477b4811106d842246d"
     },
     "6802": {
-        "gameName": "Mario Tennis",
-        "gameParts": 1,
-        "gameSystem": "Nintendo Game Boy Color",
+        "title": "Mario Tennis",
+        "parts": 1,
+        "system": "Nintendo Game Boy Color",
         "contentHash": "8810c6895d35736fc0613a5dc92480248c7c1d2b"
     },
     "4082": {
-        "gameName": "Q-bert",
-        "gameParts": 1,
-        "gameSystem": "Nintendo Game Boy Color",
+        "title": "Q-bert",
+        "parts": 1,
+        "system": "Nintendo Game Boy Color",
         "contentHash": "8797db40b80f71a36715a5bffce22e197d36deef"
     },
     "6598": {
-        "gameName": "Super Mario Bros. Deluxe",
-        "gameParts": 1,
-        "gameSystem": "Nintendo Game Boy Color",
+        "title": "Super Mario Bros. Deluxe",
+        "parts": 1,
+        "system": "Nintendo Game Boy Color",
         "contentHash": "f9e51fe9049c207bbff1532e8a6ea0e64a8697c7"
     },
     "5144": {
-        "gameName": "The Legend of Zelda - Link's Awakening",
-        "gameParts": 1,
-        "gameSystem": "Nintendo Game Boy Color",
+        "title": "The Legend of Zelda - Link's Awakening",
+        "parts": 1,
+        "system": "Nintendo Game Boy Color",
         "contentHash": "4d759ed5b89c70e18facc17182f84a875925c8fb"
     },
     "6235": {
-        "gameName": "The Legend of Zelda - Oracle of Ages",
-        "gameParts": 1,
-        "gameSystem": "Nintendo Game Boy Color",
+        "title": "The Legend of Zelda - Oracle of Ages",
+        "parts": 1,
+        "system": "Nintendo Game Boy Color",
         "contentHash": "5562f3ff6a396ed6e72c36586f98a5ea7ca6bd47"
     },
     "3462": {
-        "gameName": "The Legend of Zelda - Oracle of Seasons",
-        "gameParts": 1,
-        "gameSystem": "Nintendo Game Boy Color",
+        "title": "The Legend of Zelda - Oracle of Seasons",
+        "parts": 1,
+        "system": "Nintendo Game Boy Color",
         "contentHash": "d852cc4f0a87e32ccbad01e5188147c3158ee34a"
     },
     "8022": {
-        "gameName": "Wario Land 2",
-        "gameParts": 1,
-        "gameSystem": "Nintendo Game Boy Color",
+        "title": "Wario Land 2",
+        "parts": 1,
+        "system": "Nintendo Game Boy Color",
         "contentHash": "7bd54ad7677400da776db814423ab61b94c27c76"
     },
     "8365": {
-        "gameName": "Wario Land 3",
-        "gameParts": 1,
-        "gameSystem": "Nintendo Game Boy Color",
+        "title": "Wario Land 3",
+        "parts": 1,
+        "system": "Nintendo Game Boy Color",
         "contentHash": "455ec1401914bcbf35530b294703af04073cdabc"
     },
     "1933": {
-        "gameName": "Crash Bandicoot",
-        "gameParts": 32,
-        "gameSystem": "PlayStation 1",
+        "title": "Crash Bandicoot",
+        "parts": 32,
+        "system": "PlayStation 1",
         "contentHash": "9a20ccec0d383be9940e109985421e9a2edc982a"
     },
     "8152": {
-        "gameName": "Crash Bandicoot 2 - Cortex Strikes Back",
-        "gameParts": 10,
-        "gameSystem": "PlayStation 1",
+        "title": "Crash Bandicoot 2 - Cortex Strikes Back",
+        "parts": 10,
+        "system": "PlayStation 1",
         "contentHash": "a1708b98a9c218598fb8b7d9b26966471efe3d51"
     },
     "6717": {
-        "gameName": "Crash Bandicoot 3 - Warped",
-        "gameParts": 15,
-        "gameSystem": "PlayStation 1",
+        "title": "Crash Bandicoot 3 - Warped",
+        "parts": 15,
+        "system": "PlayStation 1",
         "contentHash": "d5fc0a70ebf96adf1568f9c5a0b6a18dcfdf607f"
     },
     "9740": {
-        "gameName": "CTR - Crash Team Racing",
-        "gameParts": 31,
-        "gameSystem": "PlayStation 1",
+        "title": "CTR - Crash Team Racing",
+        "parts": 31,
+        "system": "PlayStation 1",
         "contentHash": "4f200634fc1bd69e750f6b84fea76daa99e47cc0"
     },
     "0845": {
-        "gameName": "Donkey Kong Country",
-        "gameParts": 1,
-        "gameSystem": "Super Nintendo Entertainment System",
+        "title": "Donkey Kong Country",
+        "parts": 1,
+        "system": "Super Nintendo Entertainment System",
         "contentHash": "6e5c3072158ce421a382849a6ed365a8b973f9ed"
     },
     "3534": {
-        "gameName": "Donkey Kong Country 2 - Diddy\u2019s Kong Quest",
-        "gameParts": 1,
-        "gameSystem": "Super Nintendo Entertainment System",
+        "title": "Donkey Kong Country 2 - Diddy\u2019s Kong Quest",
+        "parts": 1,
+        "system": "Super Nintendo Entertainment System",
         "contentHash": "462d32fbf975f10f65640744e05120aed6f68cf5"
     },
     "5003": {
-        "gameName": "Donkey Kong Country 3 - Dixie Kong\u2019s Double Trouble!",
-        "gameParts": 1,
-        "gameSystem": "Super Nintendo Entertainment System",
+        "title": "Donkey Kong Country 3 - Dixie Kong\u2019s Double Trouble!",
+        "parts": 1,
+        "system": "Super Nintendo Entertainment System",
         "contentHash": "6a3ad47c653f38ecfcdc75e634ba46af426ea473"
     },
     "8842": {
-        "gameName": "Kirby Super Star",
-        "gameParts": 1,
-        "gameSystem": "Super Nintendo Entertainment System",
+        "title": "Kirby Super Star",
+        "parts": 1,
+        "system": "Super Nintendo Entertainment System",
         "contentHash": "700ab248995dd83d2612bb0e1acda6493c65a237"
     },
     "8676": {
-        "gameName": "NBA Jam",
-        "gameParts": 1,
-        "gameSystem": "Super Nintendo Entertainment System",
+        "title": "NBA Jam",
+        "parts": 1,
+        "system": "Super Nintendo Entertainment System",
         "contentHash": "ee59fd17a89ee8d2f1cf9e451395c0d48e7615c6"
     },
     "1252": {
-        "gameName": "NBA Jam - Tournament Edition",
-        "gameParts": 1,
-        "gameSystem": "Super Nintendo Entertainment System",
+        "title": "NBA Jam - Tournament Edition",
+        "parts": 1,
+        "system": "Super Nintendo Entertainment System",
         "contentHash": "8a13de616dbe59c6f97df8a3b605f737c1d16549"
     },
     "5406": {
-        "gameName": "NBA Live '98",
-        "gameParts": 1,
-        "gameSystem": "Super Nintendo Entertainment System",
+        "title": "NBA Live '98",
+        "parts": 1,
+        "system": "Super Nintendo Entertainment System",
         "contentHash": "ff240537cc080dd99de9485747aafc5246876e69"
     },
     "3366": {
-        "gameName": "Super Mario All-Stars",
-        "gameParts": 1,
-        "gameSystem": "Super Nintendo Entertainment System",
+        "title": "Super Mario All-Stars",
+        "parts": 1,
+        "system": "Super Nintendo Entertainment System",
         "contentHash": "715aa93aa952a9b29cd0f06ef53a7899c2ec37e8"
     },
     "3815": {
-        "gameName": "Super Mario Kart",
-        "gameParts": 1,
-        "gameSystem": "Super Nintendo Entertainment System",
+        "title": "Super Mario Kart",
+        "parts": 1,
+        "system": "Super Nintendo Entertainment System",
         "contentHash": "7368bced92fa015d90b918ea54216fb0bd1f387e"
     },
     "2906": {
-        "gameName": "Super Mario World",
-        "gameParts": 1,
-        "gameSystem": "Super Nintendo Entertainment System",
+        "title": "Super Mario World",
+        "parts": 1,
+        "system": "Super Nintendo Entertainment System",
         "contentHash": "fe61373f60374e4eac6f9fd83ae3184c9e989ce7"
     },
     "3026": {
-        "gameName": "Super Mario World 2 - Yoshi's Island",
-        "gameParts": 1,
-        "gameSystem": "Super Nintendo Entertainment System",
+        "title": "Super Mario World 2 - Yoshi's Island",
+        "parts": 1,
+        "system": "Super Nintendo Entertainment System",
         "contentHash": "63a924e6afe71ba320ef5aab7d3f20cc4a5a3d62"
     },
     "5362": {
-        "gameName": "Super Metroid",
-        "gameParts": 1,
-        "gameSystem": "Super Nintendo Entertainment System",
+        "title": "Super Metroid",
+        "parts": 1,
+        "system": "Super Nintendo Entertainment System",
         "contentHash": "8833a1f5995dfe391e8f69aad3c2ecdd91800c3a"
     },
     "9983": {
-        "gameName": "3-D Tetris",
-        "gameParts": 1,
-        "gameSystem": "Virtual Boy",
+        "title": "3-D Tetris",
+        "parts": 1,
+        "system": "Virtual Boy",
         "contentHash": "5c2f57b1a7e74d971f96119e30c3b7c5601bc0ed"
     },
     "2769": {
-        "gameName": "1v1.lol",
-        "gameParts": 3,
-        "gameSystem": "Unity",
+        "title": "1v1.lol",
+        "parts": 3,
+        "system": "Unity",
         "contentHash": "ae795dd736ad0aa606a864c1e64ec54a6a496ada"
     },
     "8347": {
-        "gameName": "BitLife",
-        "gameParts": 2,
-        "gameSystem": "Unity",
+        "title": "BitLife",
+        "parts": 2,
+        "system": "Unity",
         "contentHash": "739174673e54abcc8b3fc0814d042807026e0728"
     },
     "6673": {
-        "gameName": "Bob The Robber 4 France",
-        "gameParts": 3,
-        "gameSystem": "Unity",
+        "title": "Bob The Robber 4 France",
+        "parts": 3,
+        "system": "Unity",
         "contentHash": "0f815a423f70827b456e96c98d82b2265c7f1f4c"
     },
     "3107": {
-        "gameName": "Bob The Robber 4 Japan",
-        "gameParts": 3,
-        "gameSystem": "Unity",
+        "title": "Bob The Robber 4 Japan",
+        "parts": 3,
+        "system": "Unity",
         "contentHash": "07bfb6710272a674a81942e72e1f2c6f60789555"
     },
     "3632": {
-        "gameName": "Bob The Robber 4 Russia",
-        "gameParts": 3,
-        "gameSystem": "Unity",
+        "title": "Bob The Robber 4 Russia",
+        "parts": 3,
+        "system": "Unity",
         "contentHash": "32431e77b73448bebf70345eadd76cc36b232e02"
     },
     "2487": {
-        "gameName": "Clicker Heroes",
-        "gameParts": 7,
-        "gameSystem": "Unity",
+        "title": "Clicker Heroes",
+        "parts": 7,
+        "system": "Unity",
         "contentHash": "634c0e3245efb457da1f82c2a4faeea7a6fc82a5"
     },
     "4645": {
-        "gameName": "Duck Life 1",
-        "gameParts": 1,
-        "gameSystem": "Unity",
+        "title": "Duck Life 1",
+        "parts": 1,
+        "system": "Unity",
         "contentHash": "eb7f73008b1bde944760e1344b575adb97660434"
     },
     "2436": {
-        "gameName": "Duck Life 2",
-        "gameParts": 1,
-        "gameSystem": "Unity",
+        "title": "Duck Life 2",
+        "parts": 1,
+        "system": "Unity",
         "contentHash": "1dfc5303b3b0bebe297919fdd68747db71828da8"
     },
     "6143": {
-        "gameName": "Duck Life 3",
-        "gameParts": 2,
-        "gameSystem": "Unity",
+        "title": "Duck Life 3",
+        "parts": 2,
+        "system": "Unity",
         "contentHash": "2a0722ded03f57a8eea7c20fe9023069515ed15c"
     },
     "3294": {
-        "gameName": "Duck Life 4",
-        "gameParts": 3,
-        "gameSystem": "Unity",
+        "title": "Duck Life 4",
+        "parts": 3,
+        "system": "Unity",
         "contentHash": "319faa1a77f591ae85500b56acb3801966085e8e"
     },
     "9297": {
-        "gameName": "Duck Life 6",
-        "gameParts": 4,
-        "gameSystem": "Unity",
+        "title": "Duck Life 6",
+        "parts": 4,
+        "system": "Unity",
         "contentHash": "e6d9976bf6c92c3572e295e89ec08457a69e423d"
     },
     "9984": {
-        "gameName": "Duck Life 7 (DEMO)",
-        "gameParts": 4,
-        "gameSystem": "Unity",
+        "title": "Duck Life 7 (DEMO)",
+        "parts": 4,
+        "system": "Unity",
         "contentHash": "40e98b8f8462eda4aeb7c25e7784582b497ab57f"
     },
     "6225": {
-        "gameName": "Duck Life 8 (DEMO)",
-        "gameParts": 7,
-        "gameSystem": "Unity",
+        "title": "Duck Life 8 (DEMO)",
+        "parts": 7,
+        "system": "Unity",
         "contentHash": "90bba16ec8646569fef7403f8004e57119cde931"
     },
     "3497": {
-        "gameName": "Dune",
-        "gameParts": 1,
-        "gameSystem": "Unity",
+        "title": "Dune",
+        "parts": 1,
+        "system": "Unity",
         "contentHash": "2e94f35b511497333f00a6a3f9a9d1b203a58798"
     },
     "6917": {
-        "gameName": "Gravix",
-        "gameParts": 1,
-        "gameSystem": "Unity",
+        "title": "Gravix",
+        "parts": 1,
+        "system": "Unity",
         "contentHash": "e0e1679c88f8e4a0d853a63d25a4c76c538f94b1"
     },
     "8282": {
-        "gameName": "Slope",
-        "gameParts": 1,
-        "gameSystem": "Unity",
+        "title": "Slope",
+        "parts": 1,
+        "system": "Unity",
         "contentHash": "8028113970bfd92f406fafe8f9f533d9317d5253"
     },
     "8600": {
-        "gameName": "Snow Rider 3D",
-        "gameParts": 1,
-        "gameSystem": "Unity",
+        "title": "Snow Rider 3D",
+        "parts": 1,
+        "system": "Unity",
         "contentHash": "49a5d205df7dc3855a703fae5b8c1ffad93396d3"
     },
     "5089": {
-        "gameName": "Stack Ball",
-        "gameParts": 1,
-        "gameSystem": "Unity",
+        "title": "Stack Ball",
+        "parts": 1,
+        "system": "Unity",
         "contentHash": "e2ce26d547e1e6f54ea049bf8c45bfed5128e2b0"
     },
     "1548": {
-        "gameName": "Stickman Hook",
-        "gameParts": 1,
-        "gameSystem": "Unity",
+        "title": "Stickman Hook",
+        "parts": 1,
+        "system": "Unity",
         "contentHash": "8f73da61f5e25f6962e7a7ababe11a6b40d83379"
     },
     "3220": {
-        "gameName": "Suika Watermelon Game",
-        "gameParts": 5,
-        "gameSystem": "Unity",
+        "title": "Suika Watermelon Game",
+        "parts": 5,
+        "system": "Unity",
         "contentHash": "a2fe91be6e4b7e86a55ab938278ca4b59172d3d4"
     },
     "7650": {
-        "gameName": "Drive Mad",
-        "gameParts": 1,
-        "gameSystem": "Other",
+        "title": "Drive Mad",
+        "parts": 1,
+        "system": "Other",
         "contentHash": "b54a7b93cdb7721186b3385025abb57ba072c6c4"
     },
     "5554": {
-        "gameName": "Drive Mad S",
-        "gameParts": 1,
-        "gameSystem": "Other",
+        "title": "Drive Mad S",
+        "parts": 1,
+        "system": "Other",
         "contentHash": "b23ef64e330bc54bd00b526751a5d62f405f5adb"
     },
     "8033": {
-        "gameName": "Run 3",
-        "gameParts": 1,
-        "gameSystem": "Other",
+        "title": "Run 3",
+        "parts": 1,
+        "system": "Other",
         "contentHash": "8350643ff03936b4b1b54176ed5957e39c608e11"
     },
     "5343": {
-        "gameName": "Slice Master",
-        "gameParts": 2,
-        "gameSystem": "Other",
+        "title": "Slice Master",
+        "parts": 2,
+        "system": "Other",
         "contentHash": "e52e29504e39b7d7b4c89f197bef0284f0de906e"
     },
     "9906": {
-        "gameName": "Stranded Isle",
-        "gameParts": 1,
-        "gameSystem": "Other",
+        "title": "Stranded Isle",
+        "parts": 1,
+        "system": "Other",
         "contentHash": "f852b53251e773c032bc85b5466aaaf037c84d44"
     },
     "3494": {
-        "gameName": "Moto X3M 3",
-        "gameParts": 1,
-        "gameSystem": "PhaserJS",
+        "title": "Moto X3M 3",
+        "parts": 1,
+        "system": "PhaserJS",
         "contentHash": "fab4a60c1b739e11c1222bbd0dbfd91d4cf272d4"
     },
     "1432": {
-        "gameName": "Idle Dice",
-        "gameParts": 1,
-        "gameSystem": "PhaserJS",
+        "title": "Idle Dice",
+        "parts": 1,
+        "system": "PhaserJS",
         "contentHash": "6579e4553585869207f1c0d4b8eaf040206cbb19"
     },
     "8524": {
-        "gameName": "Johnny Upgrade",
-        "gameParts": 1,
-        "gameSystem": "PhaserJS",
+        "title": "Johnny Upgrade",
+        "parts": 1,
+        "system": "PhaserJS",
         "contentHash": "d8e6cb2a1a0d7950c0f80ac7e90b2fb32253d24b"
     },
     "1903": {
-        "gameName": "Bloxors",
-        "gameParts": 1,
-        "gameSystem": "Adobe Flash",
+        "title": "Bloxors",
+        "parts": 1,
+        "system": "Adobe Flash",
         "contentHash": "ee396642528c75aea21860b43bda574b01380cc3"
     },
     "2464": {
-        "gameName": "Temple of Boom",
-        "gameParts": 1,
-        "gameSystem": "Adobe Flash",
+        "title": "Temple of Boom",
+        "parts": 1,
+        "system": "Adobe Flash",
         "contentHash": "075c9792d960bfab763330178218a1f5e2d548a0"
     },
     "6748": {
-        "gameName": "Shoot Out 4",
-        "gameParts": 1,
-        "gameSystem": "Construct",
+        "title": "Shoot Out 4",
+        "parts": 1,
+        "system": "Construct",
         "contentHash": "df906525c53dc089ddc13a3df3691c96cf1ab42b"
     },
     "5718": {
-        "gameName": "Shoot Out Reloaded",
-        "gameParts": 1,
-        "gameSystem": "Construct",
+        "title": "Shoot Out Reloaded",
+        "parts": 1,
+        "system": "Construct",
         "contentHash": "d0130b186a6ec180b9de59c441a30dbaaaf08bc7"
     },
     "7543": {
-        "gameName": "Throw a Potato",
-        "gameParts": 1,
-        "gameSystem": "Construct",
+        "title": "Throw a Potato",
+        "parts": 1,
+        "system": "Construct",
         "contentHash": "52e1480986d96b4e46e9feacf9cb3570e2f66999"
     },
     "5232": {
-        "gameName": "Throw a Potato Again",
-        "gameParts": 1,
-        "gameSystem": "Construct",
+        "title": "Throw a Potato Again",
+        "parts": 1,
+        "system": "Construct",
         "contentHash": "c5f4db45093709f91cba66c95568c77b2c94b1c7"
     },
     "6210": {
-        "gameName": "Rocket Goal io",
-        "gameParts": 1,
-        "gameSystem": "Unity",
+        "title": "Rocket Goal io",
+        "parts": 1,
+        "system": "Unity",
         "contentHash": "15afd134c3247266d0038572a288403c9cb5cf56"
     },
     "1416": {
-        "gameName": "Crossy Road",
-        "gameParts": 1,
-        "gameSystem": "Other",
+        "title": "Crossy Road",
+        "parts": 1,
+        "system": "Other",
         "contentHash": "e636170bb7857c6fec04657e25e557516dcbda7f"
     },
     "1887": {
-        "gameName": "Orul",
-        "gameParts": 1,
-        "gameSystem": "Other",
+        "title": "Orul",
+        "parts": 1,
+        "system": "Other",
         "contentHash": "d15dbd9e4aacf484d77df3de5e6b92421c2c8825"
     },
     "8819": {
-        "gameName": "PolyTrack",
-        "gameParts": 1,
-        "gameSystem": "HTML5",
+        "title": "PolyTrack",
+        "parts": 1,
+        "system": "HTML5",
         "contentHash": "ce60c21a32882514f9bcc366155b2f7d152deb3d"
     },
     "4307": {
-        "gameName": "Pokemon - Emerald Version",
-        "gameParts": 1,
-        "gameSystem": "Nintendo Game Boy Advance",
+        "title": "Pokemon - Emerald Version",
+        "parts": 1,
+        "system": "Nintendo Game Boy Advance",
         "contentHash": "fa6c6aba8467459976df9f5ccf0188196d14756e"
     },
     "5606": {
-        "gameName": "Rooftop Snipers",
-        "gameParts": 1,
-        "gameSystem": "Unity",
+        "title": "Rooftop Snipers",
+        "parts": 1,
+        "system": "Unity",
         "contentHash": "69b24c19de5d285c86263456acbb339705ecf4c6"
     },
     "8026": {
-        "gameName": "Rooftop Snipers 2",
-        "gameParts": 2,
-        "gameSystem": "Unity",
+        "title": "Rooftop Snipers 2",
+        "parts": 2,
+        "system": "Unity",
         "contentHash": "ff71e09d1393cbe26c9dfc5541369721d7c3efff"
     }
 }
