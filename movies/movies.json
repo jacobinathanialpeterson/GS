@@ -236,5 +236,19 @@
         "assetId": "Ay02Y6O9EbyPwcjI902BZcD6HR2rlAUE95EJEfGe674mU",
         "playbackId": "cJoEmAqZyvryP02ftC4ZbdozTBZ2NRJp7GDwjbvjWiHc",
         "environment": "Movies 5"
+    },
+    "8914": {
+        "title": "Rogue One: A Star Wars Story",
+        "year": 2016,
+        "assetId": "PpxtG5rJrQzCJpFXsEDdq7ZibFBXzNOWziJdQlXiOs4",
+        "playbackId": "y64WEcXC6p4GzY2DnN112PIB02rrxfF4aPFWuM3AMMTY",
+        "environment": "Movies 5"
+    },
+    "9751": {
+        "title": "Solo: A Star Wars Story",
+        "year": 2018,
+        "assetId": "ti8pF68CSg1JuSOfFqHb351yVGUyN2Vk02fUQ6SZxXUA",
+        "playbackId": "3mxo02ErZzo1Q02uK02vSGhdRirevK02egYtcacW1z8OOKQ",
+        "environment": "Movies 6"
     }
 }
